@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Quiz App",
+  "description": "Smart flashcard and quiz app with markdown support and adaptive spaced repetition based on correct rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

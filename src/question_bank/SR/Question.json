@@ -1,0 +1,41 @@
+[
+  {
+    "id": "fe-1",
+    "chapter": "第一章：基础",
+    "questionNumber": "1.1",
+    "type": "single",
+    "content": "### 什么是 **React**?\n\n在现代前端开发中，React 扮演什么角色？",
+    "options": [
+      { "id": "o1", "content": "一个用于构建用户界面的 JavaScript 库", "isCorrect": true },
+      { "id": "o2", "content": "一个关系型数据库", "isCorrect": false },
+      { "id": "o3", "content": "一个后端的 Node.js 框架", "isCorrect": false },
+      { "id": "o4", "content": "一个 CSS 预处理器", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "fe-2",
+    "chapter": "第一章：基础",
+    "questionNumber": "1.2",
+    "type": "multiple",
+    "content": "### 下列哪些是 React 的特征？\n\n请选择所有适用项。",
+    "options": [
+      { "id": "o1", "content": "虚拟 DOM", "isCorrect": true },
+      { "id": "o2", "content": "双向数据绑定即开即用", "isCorrect": false },
+      { "id": "o3", "content": "组件化", "isCorrect": true },
+      { "id": "o4", "content": "单向数据流", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "fe-3",
+    "chapter": "第二章：算法",
+    "questionNumber": "2.1",
+    "type": "single",
+    "content": "### 二分查找的时间复杂度是多少？",
+    "options": [
+      { "id": "o1", "content": "O(1)", "isCorrect": false },
+      { "id": "o2", "content": "O(n)", "isCorrect": false },
+      { "id": "o3", "content": "O(log n)", "isCorrect": true },
+      { "id": "o4", "content": "O(n^2)", "isCorrect": false }
+    ]
+  }
+]
