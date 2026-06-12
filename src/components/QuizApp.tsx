@@ -373,7 +373,11 @@ export default function QuizApp() {
                       currentQuestion.type === 'multiple' ? "w-2.5 h-2.5 rounded-sm" : "w-2 h-2 rounded-full"
                     )} />}
                   </div>
-                  <span className="flex-1 font-medium">{option.content}</span>
+                  <div className="flex-1 font-medium prose prose-slate prose-sm max-w-none [&_p]:m-0 [&_code]:bg-slate-100 [&_code]:text-indigo-600 [&_code]:px-1.5 [&_code]:py-0.5 [&_code]:rounded-md [&_code]:text-xs">
+                    <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                      {option.content || ''}
+                    </ReactMarkdown>
+                  </div>
                   {icon}
                 </button>
               );
