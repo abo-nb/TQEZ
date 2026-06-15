@@ -1,0 +1,327 @@
+[
+  {
+    "id": "ch1-1",
+    "chapter": "第一章",
+    "questionNumber": "B1",
+    "type": "single",
+    "content": "若公司發行面額 $5,000,000 之公司債，票面利率為 5%，市場利率為 6%，則此公司債將以何種價格發行？\n\n*[107特考]*",
+    "options": [
+      { "id": "o1", "content": "面額發行", "isCorrect": false },
+      { "id": "o2", "content": "折價發行", "isCorrect": true },
+      { "id": "o3", "content": "平價發行", "isCorrect": false },
+      { "id": "o4", "content": "溢價發行", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-2",
+    "chapter": "第一章",
+    "questionNumber": "A2",
+    "type": "single",
+    "content": "甲公司發行面額 $1,000，5 年期，票面利率 3% 之公司債，若發行當時市場利率為 5%，則此公司債認列之利息費用較票面利息：",
+    "options": [
+      { "id": "o1", "content": "高", "isCorrect": true },
+      { "id": "o2", "content": "低", "isCorrect": false },
+      { "id": "o3", "content": "相同", "isCorrect": false },
+      { "id": "o4", "content": "不一定", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-3",
+    "chapter": "第一章",
+    "questionNumber": "C3",
+    "type": "single",
+    "content": "應付公司債之溢價攤銷將使：",
+    "options": [
+      { "id": "o1", "content": "利息費用增加", "isCorrect": false },
+      { "id": "o2", "content": "利息付現數增加", "isCorrect": false },
+      { "id": "o3", "content": "利息費用減少", "isCorrect": true },
+      { "id": "o4", "content": "利息付現數減少", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-4",
+    "chapter": "第一章",
+    "questionNumber": "B4",
+    "type": "single",
+    "content": "公司債若折價發行，表示：",
+    "options": [
+      { "id": "o1", "content": "債券發行公司財務狀況不理想", "isCorrect": false },
+      { "id": "o2", "content": "市場利率高於公司債票面利率", "isCorrect": true },
+      { "id": "o3", "content": "市場利率低於公司債票面利率", "isCorrect": false },
+      { "id": "o4", "content": "債券投資人會收到較債券票面利率為低之利息", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-5",
+    "chapter": "第一章",
+    "questionNumber": "D5",
+    "type": "single",
+    "content": "以有效利率法攤銷公司債之折溢價，則每期利息費用為下列何者？",
+    "options": [
+      { "id": "o1", "content": "期初公司債面額 × 票面利率", "isCorrect": false },
+      { "id": "o2", "content": "期初公司債面額 × 有效利率", "isCorrect": false },
+      { "id": "o3", "content": "期初公司債帳面金額 × 票面利率", "isCorrect": false },
+      { "id": "o4", "content": "期初公司債帳面金額 × 有效利率", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "ch1-6",
+    "chapter": "第一章",
+    "questionNumber": "B6",
+    "type": "single",
+    "content": "丁公司於 X2 年 8 月 1 日以 $5,150,000 之價格，發行票面利率 10%，面額 $5,000,000，每年 7 月 31 日付息之公司債。下列有關丁公司公司債之敘述，何者錯誤？\n\n*[111特考]*",
+    "options": [
+      { "id": "o1", "content": "有效利率低於票面利率", "isCorrect": false },
+      { "id": "o2", "content": "每年認列之利息費用高於支付之現金利息", "isCorrect": true },
+      { "id": "o3", "content": "每年 12 月 31 日應作應付利息之調整分錄", "isCorrect": false },
+      { "id": "o4", "content": "發行分錄包括貸記應付公司債溢價", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-7",
+    "chapter": "第一章",
+    "questionNumber": "A7",
+    "type": "single",
+    "content": "戊公司折價發行公司債 $3,000,000，並採有效利率法攤銷公司債折價，下列敘述何者正確？",
+    "options": [
+      { "id": "o1", "content": "利息費用逐期增加，折價攤銷數逐期增加", "isCorrect": true },
+      { "id": "o2", "content": "利息費用逐期增加，折價攤銷數逐期減少", "isCorrect": false },
+      { "id": "o3", "content": "利息費用逐期減少，折價攤銷數逐期增加", "isCorrect": false },
+      { "id": "o4", "content": "利息費用逐期減少，折價攤銷數逐期減少", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-8",
+    "chapter": "第一章",
+    "questionNumber": "D8",
+    "type": "single",
+    "content": "甲公司於 X9 年 4 月 1 日以 $382,680 發行 5 年期，票面利率 4%，每年 3 月 31 日付息一次，面額 $400,000 之債券，發行時有效利率 5%。請計算該債券於發行期間 5 年之**利息費用總額**：\n\n*[109 記帳士]*",
+    "options": [
+      { "id": "o1", "content": "$62,680", "isCorrect": false },
+      { "id": "o2", "content": "$80,000", "isCorrect": false },
+      { "id": "o3", "content": "$95,670", "isCorrect": false },
+      { "id": "o4", "content": "$97,320", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "ch1-9",
+    "chapter": "第一章",
+    "questionNumber": "C9",
+    "type": "single",
+    "content": "甲公司於 X1 年初按 $2,060,000 發行面額 $2,000,000，5 年到期，每年底付息一次之公司債，下列敘述何者正確？\n\n*[109普考]*",
+    "options": [
+      { "id": "o1", "content": "發行時，有效利率高於票面利率", "isCorrect": false },
+      { "id": "o2", "content": "公司債到期時，需償還 $2,060,000 之現金", "isCorrect": false },
+      { "id": "o3", "content": "利息費用逐期減少", "isCorrect": true },
+      { "id": "o4", "content": "每期支付利息金額，小於利息費用", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-10",
+    "chapter": "第一章",
+    "questionNumber": "C10",
+    "type": "single",
+    "content": "四維公司於 X6 年 1 月 1 日以 $1,050,000 價格發行 6 年期、面額 $1,000,000、利率 6% 之公司債，則該公司債到期還本時，應借記「應付公司債」金額為若干？",
+    "options": [
+      { "id": "o1", "content": "$1,050,000", "isCorrect": false },
+      { "id": "o2", "content": "$950,000", "isCorrect": false },
+      { "id": "o3", "content": "$1,000,000", "isCorrect": true },
+      { "id": "o4", "content": "$1,060,000", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-11",
+    "chapter": "第一章",
+    "questionNumber": "B11",
+    "type": "single",
+    "content": "八德公司於 X6 年 1 月 1 日以 $970,000 之價格發行面額 $1,000,000 之公司債，3 年期，票面利率 5%。該公司債每年 6 月 30 日、12 月 31 日付息。若該公司採**直線法**攤銷折溢價，則每個月應攤銷之金額為若干？",
+    "options": [
+      { "id": "o1", "content": "$485", "isCorrect": false },
+      { "id": "o2", "content": "$500", "isCorrect": true },
+      { "id": "o3", "content": "$5,820", "isCorrect": false },
+      { "id": "o4", "content": "$6,000", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-12",
+    "chapter": "第一章",
+    "questionNumber": "A12",
+    "type": "single",
+    "content": "奇逸公司於 X6 年 7 月 1 日發行面額 $100,000、利率 6% 之五年期公司債，每年 7 月 1 日付息一次，發行時市場利率為 5%，發行價格為 $104,376。若該公司以有效利率法攤銷溢價，請問 X6 年度應認列的利息費用為若干？",
+    "options": [
+      { "id": "o1", "content": "$2,609", "isCorrect": true },
+      { "id": "o2", "content": "$3,131", "isCorrect": false },
+      { "id": "o3", "content": "$5,000", "isCorrect": false },
+      { "id": "o4", "content": "$6,000", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-13",
+    "chapter": "第一章",
+    "questionNumber": "C13",
+    "type": "single",
+    "content": "竹山公司於 X1 年初發行面額 $1,000,000，五年期，票面利率 4%，每年 12 月 31 日付息的公司債，按 5% 有效利率發行，折價 $43,295。該公司依利息法攤銷折價，則 X1 年底未攤銷折價金額為若干？",
+    "options": [
+      { "id": "o1", "content": "$33,295", "isCorrect": false },
+      { "id": "o2", "content": "$34,636", "isCorrect": false },
+      { "id": "o3", "content": "$35,460", "isCorrect": true },
+      { "id": "o4", "content": "$37,295", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-14",
+    "chapter": "第一章",
+    "questionNumber": "14",
+    "type": "single",
+    "content": "甲公司於 X1 年 1 月 1 日以 $191,096 發行並出售公司債，面額 $200,000，期限 5 年，票面利率為 3%，市場利率為 4%，付息日為 12 月 31 日，甲公司以利息法攤銷公司債的溢折價，試問甲公司 X1 年的利息費用和 X2 年底的帳面金額分別為若干？",
+    "options": [
+      { "id": "o1", "content": "X1 年的利息費用為 $6,000，X2 年底的帳面金額 $200,000", "isCorrect": false },
+      { "id": "o2", "content": "X1 年的利息費用為 $5,733，X2 年底的帳面金額 $193,363", "isCorrect": false },
+      { "id": "o3", "content": "X1 年的利息費用為 $7,710，X2 年底的帳面金額 $192,740", "isCorrect": false },
+      { "id": "o4", "content": "X1 年的利息費用為 $7,644，X2 年底的帳面金額 $194,450", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "ch1-15",
+    "chapter": "第一章",
+    "questionNumber": "15",
+    "type": "single",
+    "content": "甲公司於 X9 年 4 月 1 日發行面額 $1,000,000、利率 3%、5 年期公司債，每年 4 月 1 日及 10 月 1 日付息，該公司債發行價格為 $955,089，有效利率為 4%。甲公司為曆年制，則 X9 年底此公司債帳面金額是多少？（四捨五入至元）\n\n*[110特考]*",
+    "options": [
+      { "id": "o1", "content": "$961,283", "isCorrect": true },
+      { "id": "o2", "content": "$961,691", "isCorrect": false },
+      { "id": "o3", "content": "$961,826", "isCorrect": false },
+      { "id": "o4", "content": "$963,375", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-16",
+    "chapter": "第一章",
+    "questionNumber": "16",
+    "type": "single",
+    "content": "愛鈴公司以 $980,000 價格收回面額 $1,000,000 的公司債，收回日之公司債帳面金額為 $1,008,000。請問公司對此交易應認列收回公司債損益若干？",
+    "options": [
+      { "id": "o1", "content": "收回公司債利益 $8,000", "isCorrect": false },
+      { "id": "o2", "content": "收回公司債利益 $28,000", "isCorrect": true },
+      { "id": "o3", "content": "收回公司債損失 $8,000", "isCorrect": false },
+      { "id": "o4", "content": "收回公司債損失 $28,000", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-17",
+    "chapter": "第一章",
+    "questionNumber": "17",
+    "type": "single",
+    "content": "若公司債到期前收回發生損失時，該筆損失應如何處理？",
+    "options": [
+      { "id": "o1", "content": "借記保留盈餘", "isCorrect": false },
+      { "id": "o2", "content": "列為營業外損益", "isCorrect": true },
+      { "id": "o3", "content": "借記利息費用", "isCorrect": false },
+      { "id": "o4", "content": "列為利息收入", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-18",
+    "chapter": "第一章",
+    "questionNumber": "18",
+    "type": "single",
+    "content": "甲公司在 X1 年 1 月 1 日發行面額 $1,000,000，5 年期，票面利率 6% 之公司債，每年底付息。發行當時之有效利率為 8%，發行價格為 $920,000。甲公司於 X3 年 1 月 1 日以 $935,000 之價格收回全數之債券加以註銷。甲公司收回該債券應認列之收回公司債損益為何？\n\n*[110特考]*",
+    "options": [
+      { "id": "o1", "content": "損失 $15,000", "isCorrect": false },
+      { "id": "o2", "content": "損失 $1,400", "isCorrect": true },
+      { "id": "o3", "content": "利益 $13,288", "isCorrect": false },
+      { "id": "o4", "content": "利益 $65,000", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-19",
+    "chapter": "第一章",
+    "questionNumber": "19",
+    "type": "single",
+    "content": "玉米公司於 X1 年 4 月 1 日向銀行貸款 $3,000,000，貸款期限 5 年，借款利率與市場利率皆為 5%，在每年 3 月 31 日及 9 月 30 日需付息，請問玉米公司 X2 年 3 月 31 日支付利息時，應認列利息費用若干？",
+    "options": [
+      { "id": "o1", "content": "$150,000", "isCorrect": false },
+      { "id": "o2", "content": "$75,000", "isCorrect": false },
+      { "id": "o3", "content": "$37,500", "isCorrect": true },
+      { "id": "o4", "content": "$18,750", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-20",
+    "chapter": "第一章",
+    "questionNumber": "20",
+    "type": "single",
+    "content": "甲公司為蓋新辦公大樓，X1 年初以土地向銀行抵押，借得款項 $758,157，雙方約定利率 10%，為期五年，自 X1 年起，每年底還款 $200,000。下列敘述何者正確？\n\n*[108特考]*",
+    "options": [
+      { "id": "o1", "content": "X2 年利息費用 $75,816", "isCorrect": false },
+      { "id": "o2", "content": "X2 年償還抵押借款本金 $63,397", "isCorrect": false },
+      { "id": "o3", "content": "X2 年底累積已還本金 $400,000", "isCorrect": false },
+      { "id": "o4", "content": "X2 年底尚欠抵押借款本金 $497,370", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "ch1-21",
+    "chapter": "第一章",
+    "questionNumber": "21",
+    "type": "single",
+    "content": "甲公司非於付息日發行公司債，在發行日對於上次付息日至發行日之間的利息，應如何處理？",
+    "options": [
+      { "id": "o1", "content": "借記「利息費用」", "isCorrect": false },
+      { "id": "o2", "content": "借記「應付公司債折價」", "isCorrect": false },
+      { "id": "o3", "content": "貸記「應付公司債」", "isCorrect": false },
+      { "id": "o4", "content": "貸記「應付利息」", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "ch1-22",
+    "chapter": "第一章",
+    "questionNumber": "22",
+    "type": "single",
+    "content": "關於非付息日發行公司債相對於付息日發行之公司債之敘述，下列何者正確？",
+    "options": [
+      { "id": "o1", "content": "發行日後之第一次付息日，非付息日發行之公司債所支付之現金利息會較少", "isCorrect": false },
+      { "id": "o2", "content": "發行日後之第一次付息日所支付之現金利息，無論是否於付息日發行均無差異", "isCorrect": false },
+      { "id": "o3", "content": "發行日後之第一次付息日，非付息日發行之公司債所支付之現金利息會較多", "isCorrect": true },
+      { "id": "o4", "content": "資料不足，無法判斷", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "ch1-23",
+    "chapter": "第一章",
+    "questionNumber": "23",
+    "type": "single",
+    "content": "大為公司擬發行付息日為 6 月 30 日及 12 月 31 日之公司債，原訂 1 月 1 日發行因故延至 3 月 1 日發行，則發行日大為公司所收到之現金將等於當日公司債現值加（減）下列何者？",
+    "options": [
+      { "id": "o1", "content": "減：3 月 1 日至 6 月 30 日之應計利息", "isCorrect": false },
+      { "id": "o2", "content": "減：1 月 1 日至 3 月 1 日之應計利息", "isCorrect": false },
+      { "id": "o3", "content": "加：3 月 1 日至 6 月 30 日之應計利息", "isCorrect": false },
+      { "id": "o4", "content": "加：1 月 1 日至 3 月 1 日之應計利息", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "ch1-24",
+    "chapter": "第一章",
+    "questionNumber": "24",
+    "type": "single",
+    "content": "大千公司於 1 月 1 日奉准發行面額 $300,000，票面利率 3%，五年到期之公司債，每年 1 月 1 日及 7 月 1 日各付息一次，公司於同年 3 月 1 日始將債券售出，收到現金 $321,900。試問出售時公司債溢價為何？",
+    "options": [
+      { "id": "o1", "content": "$17,400", "isCorrect": false },
+      { "id": "o2", "content": "$19,650", "isCorrect": false },
+      { "id": "o3", "content": "$21,900", "isCorrect": false },
+      { "id": "o4", "content": "$20,400", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "ch1-25",
+    "chapter": "第一章",
+    "questionNumber": "25",
+    "type": "single",
+    "content": "大聖公司於 X1 年 4 月 1 日以 $490,000 另加應計利息出售面額 $500,000，票面利率 7%，10 年期的公司債。公司債票面上的發行日期為 X1 年 1 月 1 日，付息日為每年 1 月 1 日及 7 月 1 日。試問該公司出售公司債收到的金額為何？\n\n*[110特考改編]*",
+    "options": [
+      { "id": "o1", "content": "$535,000", "isCorrect": false },
+      { "id": "o2", "content": "$500,000", "isCorrect": false },
+      { "id": "o3", "content": "$498,750", "isCorrect": true },
+      { "id": "o4", "content": "$490,000", "isCorrect": false }
+    ]
+  }
+]
