@@ -1192,10 +1192,10 @@
     "type": "single",
     "content": "乙公司 X8 年税後淨利$640,000，稅率20%，流動負債$300,000，利息費用$50,000，則乙公司X8年之利息保障倍數為何？",
     "options": [
-      { "id": "A", "content": "12.8.", "isCorrect": true },
+      { "id": "A", "content": "12.8.", "isCorrect": false },
       { "id": "B", "content": "13.8.", "isCorrect": false },
       { "id": "C", "content": "16", "isCorrect": false },
-      { "id": "D", "content": "17", "isCorrect": false }
+      { "id": "D", "content": "17", "isCorrect": true }
     ]
   },
   {
