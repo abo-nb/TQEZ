@@ -93,7 +93,7 @@
   {
     "id": "ch13-8",
     "chapter": "第十三章",
-    "questionNumber": "8",
+    "questionNumber": ,
     "type": "single",
     "content": "甲公司於X9年4月1日以$382,680發行5年期，票面利率4%，每年3月31日付息一次，面額$400,000之債券，發行時有效利率5%。請計算該債券於發行期間5年之利息費用總額：[109 記帳士]",
     "options": [
@@ -419,7 +419,7 @@
   {
     "id": "ch14-8",
     "chapter": "第十四章",
-    "questionNumber": "8",
+    "questionNumber": ,
     "type": "single",
     "content": "威盛公司於X1 年初以現金$60,000購入金山公司股票2,000股，並分類為透過損益按公允價值衡量證券投資。威盛公司於X2年間收到現金股利每股$1.5，股票股利10%，若威盛公司無其他股票投資，則X2 年度之股利收入為多少？",
     "options": [
@@ -745,7 +745,7 @@
   {
     "id": "ch15-8",
     "chapter": "第十五章",
-    "questionNumber": "8",
+    "questionNumber": ,
     "type": "single",
     "content": "甲公司X1 年部分資產及負債之期初與期末金額如下：\n(備註：此處原文本標註[記得放圖片])\n甲公司X1年稅後淨利為$11,600，所得稅費用及支付金額為$1,200，則甲公司X1年之來自營業活動現金流入為：[111特考]",
     "options": [
@@ -1075,7 +1075,7 @@
     "content": "甲公司速動資產$150,000，流動負債$200,000，若該公司存貨採永續盤存制，今有一筆賒購交易，使存貨及應付帳款各增加$50,000，則速動比率為若干？",
     "options": [
       { "id": "A", "content": "1.33.", "isCorrect": false },
-      { "id": "B", "content": "1.", "isCorrect": false },
+      { "id": "B", "content": "1", "isCorrect": false },
       { "id": "C", "content": "0.6.", "isCorrect": true },
       { "id": "D", "content": "0.75.", "isCorrect": false }
     ]
