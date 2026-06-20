@@ -229,7 +229,7 @@
     "options": [
       { "id": "A", "content": "損失$15,000。", "isCorrect": false },
       { "id": "B", "content": "損失$1,400。", "isCorrect": false },
-      { "id": "C", "content": "利益$13,288。", "isCorrect": false },
+      { "id": "C", "content": "利益$13,288。", "isCorrect": true },
       { "id": "D", "content": "利益$65,000。", "isCorrect": false }
     ],
     "comment": "原題目標註為答案(4)，選項未直接提供對應之D選項標籤，對應正確數值解析後，此題原答案(4)應是指D位置。但數值計算上X3年初帳面價值為$948,288，收回價格$935,000，產生收回利益$13,288，對應選項為(C)。此處維持原題目選項順序。"
@@ -281,8 +281,8 @@
     "content": "關於非付息日發行公司債相對於付息日發行之公司債之敘述，下列何者正確？",
     "options": [
       { "id": "A", "content": "發行日後之第一次付息日，非付息日發行之公司債所支付之現金利息會較少。", "isCorrect": false },
-      { "id": "B", "content": "發行日後之第一次付息日所支付之現金利息，無論是否於付息日發行均無差異。", "isCorrect": false },
-      { "id": "C", "content": "發行日後之第一次付息日，非付息日發行之公司債所支付之現金利息會較多。", "isCorrect": true },
+      { "id": "B", "content": "發行日後之第一次付息日所支付之現金利息，無論是否於付息日發行均無差異。", "isCorrect": true },
+      { "id": "C", "content": "發行日後之第一次付息日，非付息日發行之公司債所支付之現金利息會較多。", "isCorrect": false },
       { "id": "D", "content": "資料不足，無法判斷。", "isCorrect": false }
     ]
   },
