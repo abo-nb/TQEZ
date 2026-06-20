@@ -208,9 +208,9 @@
     ]
   },
   {
-    "id": "ch13-17",
+    "id": "ch13-",
     "chapter": "第十三章",
-    "questionNumber": "17",
+    "questionNumber": "",
     "type": "single",
     "content": "若公司債到期前收回發生損失時，該筆損失應如何處理？",
     "options": [
@@ -1194,8 +1194,8 @@
     "options": [
       { "id": "A", "content": "12.8.", "isCorrect": true },
       { "id": "B", "content": "13.8.", "isCorrect": false },
-      { "id": "C", "content": "16.", "isCorrect": false },
-      { "id": "D", "content": "17.", "isCorrect": false }
+      { "id": "C", "content": "16", "isCorrect": false },
+      { "id": "D", "content": "17", "isCorrect": false }
     ]
   },
   {
