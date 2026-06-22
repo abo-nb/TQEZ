@@ -1194,8 +1194,8 @@
     "options": [
       { "id": "A", "content": "12.8.", "isCorrect": false },
       { "id": "B", "content": "13.8.", "isCorrect": false },
-      { "id": "C", "content": "16", "isCorrect": false },
-      { "id": "D", "content": "17", "isCorrect": true }
+      { "id": "C", "content": "16.", "isCorrect": false },
+      { "id": "D", "content": "17.", "isCorrect": true }
     ]
   },
   {
