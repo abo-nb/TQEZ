@@ -39,9 +39,9 @@
     ]
   },
   {
-    "id": "q-4",
+    "id": "q-",
     "chapter": "第十一章",
-    "questionNumber": "4",
+    "questionNumber": "",
     "type": "single",
     "content": "在資料的階層架構中，下列哪個敘述錯誤？",
     "options": [
@@ -169,9 +169,9 @@
     ]
   },
   {
-    "id": "q-14",
+    "id": "q-1",
     "chapter": "第十一章",
-    "questionNumber": "14",
+    "questionNumber": "1",
     "type": "single",
     "content": "下列何者是關聯式資料庫的基本資料結構？",
     "options": [
@@ -223,7 +223,7 @@
   {
     "id": "q-18",
     "chapter": "第十二章",
-    "questionNumber": "4",
+    "questionNumber": "",
     "type": "single",
     "content": "下列哪種資訊系統的主要功能是維持企業的基本活動及日常交易？",
     "options": [
@@ -299,7 +299,7 @@
     ]
   },
   {
-    "id": "q-24",
+    "id": "q-2",
     "chapter": "第十二章",
     "questionNumber": "10",
     "type": "single",
@@ -320,7 +320,7 @@
     "options": [
       { "id": "A", "content": "DES", "isCorrect": false },
       { "id": "B", "content": "AES", "isCorrect": false },
-      { "id": "C", "content": "RC4", "isCorrect": false },
+      { "id": "C", "content": "RC", "isCorrect": false },
       { "id": "D", "content": "RSA", "isCorrect": true }
     ]
   },
@@ -352,7 +352,7 @@
   },
   {
     "id": "q-28",
-    "chapter": "第十三章"",
+    "chapter": "第十三章",
     "questionNumber": "4",
     "type": "single",
     "content": "下列哪種安全攻擊手法的目的是要破解密碼？",
