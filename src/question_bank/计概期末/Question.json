@@ -591,7 +591,7 @@
     "type": "single",
     "content": "下列哪個敘述正確？",
     "options": [
-      { "id": "A", "content": "Even 將賭博網站開設在允許博弈的國家，仍無法在國內經營賭博行業", "isCorrect": true },
+      { "id": "A", "content": "將賭博網站開設在允許博弈的國家，仍無法在國內經營賭博行業", "isCorrect": true },
       { "id": "B", "content": "由於電玩寶物是虛擬的，所以偷了他人的電玩寶物並不違法", "isCorrect": false },
       { "id": "C", "content": "由於憲法保障言論自由，所以濫發垃圾郵件並不違法", "isCorrect": false },
       { "id": "D", "content": "經由 P2P 軟體免費下載音樂的行為在目前是無法可管的", "isCorrect": false }
