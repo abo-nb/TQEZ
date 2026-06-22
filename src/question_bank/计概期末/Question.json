@@ -1,5 +1,317 @@
 [
   {
+    "id": "q-1",
+    "chapter": "第十一章",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "下列何者不適合以資料庫管理系統來處理？",
+    "options": [
+      { "id": "A", "content": "選課系統", "isCorrect": false },
+      { "id": "B", "content": "客戶應收帳款", "isCorrect": false },
+      { "id": "C", "content": "簡報", "isCorrect": true },
+      { "id": "D", "content": "病歷系統", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-2",
+    "chapter": "第十一章",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "下列何者不屬於 DBMS？",
+    "options": [
+      { "id": "A", "content": "SQL Server", "isCorrect": false },
+      { "id": "B", "content": "MariaDB", "isCorrect": false },
+      { "id": "C", "content": "Access", "isCorrect": false },
+      { "id": "D", "content": "Visio", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "q-3",
+    "chapter": "第十一章",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "下列哪種技術可以幫助網站分析顧客的消費行為？",
+    "options": [
+      { "id": "A", "content": "網路探勘", "isCorrect": true },
+      { "id": "B", "content": "管理資訊系統", "isCorrect": false },
+      { "id": "C", "content": "3D 列印", "isCorrect": false },
+      { "id": "D", "content": "專家系統", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-4",
+    "chapter": "第十一章",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "在資料的階層架構中，下列哪個敘述錯誤？",
+    "options": [
+      { "id": "A", "content": "可以用來識別所有記錄的欄位稱為主鍵", "isCorrect": false },
+      { "id": "B", "content": "記錄是由一個或多個欄位所組成", "isCorrect": false },
+      { "id": "C", "content": "資料庫是一個或多個資料檔案的集合", "isCorrect": false },
+      { "id": "D", "content": "位元是使用者存取資料的最小單位", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "q-5",
+    "chapter": "第十一章",
+    "questionNumber": "5",
+    "type": "single",
+    "content": "下列何者不是資料倉儲的應用？",
+    "options": [
+      { "id": "A", "content": "機器人", "isCorrect": true },
+      { "id": "B", "content": "線上分析處理(OLAP)", "isCorrect": false },
+      { "id": "C", "content": "決策支援系統", "isCorrect": false },
+      { "id": "D", "content": "資料探勘", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-6",
+    "chapter": "第十一章",
+    "questionNumber": "6",
+    "type": "single",
+    "content": "下列何者屬於 NoSQL 非關聯式資料庫？",
+    "options": [
+      { "id": "A", "content": "SQL Server", "isCorrect": false },
+      { "id": "B", "content": "SimpleDB", "isCorrect": true },
+      { "id": "C", "content": "Access", "isCorrect": false },
+      { "id": "D", "content": "IBM DB2", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-7",
+    "chapter": "第十一章",
+    "questionNumber": "7",
+    "type": "single",
+    "content": "以學生基本資料為例，下列何者最適合作為主鍵欄位？",
+    "options": [
+      { "id": "A", "content": "姓名", "isCorrect": false },
+      { "id": "B", "content": "生日", "isCorrect": false },
+      { "id": "C", "content": "學號", "isCorrect": true },
+      { "id": "D", "content": "性別", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-8",
+    "chapter": "第十一章",
+    "questionNumber": "8",
+    "type": "single",
+    "content": "下列何者是一個能夠儲存並管理大數據的雲端平台？",
+    "options": [
+      { "id": "A", "content": "MySQL", "isCorrect": false },
+      { "id": "B", "content": "Objectivity", "isCorrect": false },
+      { "id": "C", "content": "Access", "isCorrect": false },
+      { "id": "D", "content": "Hadoop", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "q-9",
+    "chapter": "第十一章",
+    "questionNumber": "9",
+    "type": "single",
+    "content": "關聯式資料庫的查詢語言叫做什麼？",
+    "options": [
+      { "id": "A", "content": "OQL", "isCorrect": false },
+      { "id": "B", "content": "SQL", "isCorrect": true },
+      { "id": "C", "content": "ROL", "isCorrect": false },
+      { "id": "D", "content": "MySQL", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-10",
+    "chapter": "第十一章",
+    "questionNumber": "10",
+    "type": "single",
+    "content": "下列關於大數據的敘述何者正確？",
+    "options": [
+      { "id": "A", "content": "所涉及的資料量巨大到無法在一定時間內以人工進行擷取", "isCorrect": false },
+      { "id": "B", "content": "可以應用到物聯網、電子商務、經濟金融等領域", "isCorrect": false },
+      { "id": "C", "content": "製造業可以透過大數據分析提升良率", "isCorrect": false },
+      { "id": "D", "content": "以上皆是", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "q-11",
+    "chapter": "第十一章",
+    "questionNumber": "11",
+    "type": "single",
+    "content": "下列關於關聯式資料庫的敘述何者正確？",
+    "options": [
+      { "id": "A", "content": "SQL Server 和 MongoDB 均屬於關聯式資料庫", "isCorrect": false },
+      { "id": "B", "content": "一個關聯式資料庫可以包含多個資料表(table)", "isCorrect": true },
+      { "id": "C", "content": "資料表之間可以透過 INSERT 指令合併成一個資料表", "isCorrect": false },
+      { "id": "D", "content": "資料表中不同列的相同欄位可以儲存不同類型的資料", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-12",
+    "chapter": "第十一章",
+    "questionNumber": "12",
+    "type": "single",
+    "content": "下列存取資料庫的行為，何者合乎資訊倫理？",
+    "options": [
+      { "id": "A", "content": "進入學校教務系統修改自己的英文成績", "isCorrect": false },
+      { "id": "B", "content": "在圖書館的資訊系統查詢計算機概論書單", "isCorrect": true },
+      { "id": "C", "content": "利用職務上臨時給的帳號讀取與工作無關的機密資料", "isCorrect": false },
+      { "id": "D", "content": "入侵學校網站修改網頁上的錯字", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-13",
+    "chapter": "第十一章",
+    "questionNumber": "13",
+    "type": "single",
+    "content": "下列何者屬於大數據分析工具？",
+    "options": [
+      { "id": "A", "content": "Google Form", "isCorrect": false },
+      { "id": "B", "content": "Tableau", "isCorrect": false },
+      { "id": "C", "content": "Hadoop MapReduce", "isCorrect": true },
+      { "id": "D", "content": "SurveyCake", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-14",
+    "chapter": "第十一章",
+    "questionNumber": "14",
+    "type": "single",
+    "content": "下列何者是關聯式資料庫的基本資料結構？",
+    "options": [
+      { "id": "A", "content": "表格(table)", "isCorrect": true },
+      { "id": "B", "content": "陣列(array)", "isCorrect": false },
+      { "id": "C", "content": "樹(tree)", "isCorrect": false },
+      { "id": "D", "content": "堆疊(stack)", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-15",
+    "chapter": "第十二章",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "在資訊系統的架構中，下列何者可以將蒐集所得、尚未整理的資料轉換成有價值的資訊？",
+    "options": [
+      { "id": "A", "content": "輸入", "isCorrect": false },
+      { "id": "B", "content": "輸出", "isCorrect": false },
+      { "id": "C", "content": "處理", "isCorrect": true },
+      { "id": "D", "content": "回饋", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-16",
+    "chapter": "第十二章",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "在資訊系統的架構中，下列何者可以將部分輸出的資訊送回給企業內部人員進行評估或修正輸入？",
+    "options": [
+      { "id": "A", "content": "輸入", "isCorrect": false },
+      { "id": "B", "content": "輸出", "isCorrect": false },
+      { "id": "C", "content": "處理", "isCorrect": false },
+      { "id": "D", "content": "回饋", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "q-17",
+    "chapter": "第十二章",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "下列哪種資訊系統可以產生每年、每季、每月或每週的定期資訊及報表，協助中階主管評估業績達成率並預測明年的目標？",
+    "options": [
+      { "id": "A", "content": "管理資訊系統(MIS)", "isCorrect": true },
+      { "id": "B", "content": "決策支援系統(DSS)", "isCorrect": false },
+      { "id": "C", "content": "主管支援系統(ESS)", "isCorrect": false },
+      { "id": "D", "content": "企業資源規劃(ERP)", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-18",
+    "chapter": "第十二章",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "下列哪種資訊系統的主要功能是維持企業的基本活動及日常交易？",
+    "options": [
+      { "id": "A", "content": "管理資訊系統(MIS)", "isCorrect": false },
+      { "id": "B", "content": "決策支援系統(DSS)", "isCorrect": false },
+      { "id": "C", "content": "專家系統(ES)", "isCorrect": false },
+      { "id": "D", "content": "交易處理系統(TPS)", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "q-19",
+    "chapter": "第十二章",
+    "questionNumber": "5",
+    "type": "single",
+    "content": "企業的數位化不包括下列哪個方面？",
+    "options": [
+      { "id": "A", "content": "企業關係", "isCorrect": false },
+      { "id": "B", "content": "企業流程", "isCorrect": false },
+      { "id": "C", "content": "企業資產", "isCorrect": false },
+      { "id": "D", "content": "企業形象", "isCorrect": true }
+    ]
+  },
+  {
+    "id": "q-20",
+    "chapter": "第十二章",
+    "questionNumber": "6",
+    "type": "single",
+    "content": "下列哪種資訊系統可以協助知識工作者挖掘新知識？",
+    "options": [
+      { "id": "A", "content": "辦公室自動化系統(OAS)", "isCorrect": false },
+      { "id": "B", "content": "知識工作系統(KWS)", "isCorrect": true },
+      { "id": "C", "content": "電腦輔助製造(CAM)", "isCorrect": false },
+      { "id": "D", "content": "企業資源規劃(ERP)", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-21",
+    "chapter": "第十二章",
+    "questionNumber": "7",
+    "type": "single",
+    "content": "下列哪種資訊系統可以協助企業抓住主顧客？",
+    "options": [
+      { "id": "A", "content": "供應鏈管理(SCM)", "isCorrect": false },
+      { "id": "B", "content": "顧客關係管理(CRM)", "isCorrect": true },
+      { "id": "C", "content": "知識管理(KM)", "isCorrect": false },
+      { "id": "D", "content": "企業資源規劃(ERP)", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-22",
+    "chapter": "第十二章",
+    "questionNumber": "8",
+    "type": "single",
+    "content": "下列關於ERP(企業資源規劃)、SCM(供應鏈管理)、CRM(顧客關係管理)三者對於企業的重要性及彼此之間的關係，哪個敘述錯誤？",
+    "options": [
+      { "id": "A", "content": "三者必須相輔相成才能提升經營效率", "isCorrect": false },
+      { "id": "B", "content": "對企業內部而言，必須加強 ERP 以鞏固核心競爭力", "isCorrect": false },
+      { "id": "C", "content": "三者的關係是「顧客 - SCM - ERP - CRM - 供應商」", "isCorrect": true },
+      { "id": "D", "content": "對企業外部而言，必須加強 SCM 和 CRM", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-23",
+    "chapter": "第十二章",
+    "questionNumber": "9",
+    "type": "single",
+    "content": "下列何者不是專家系統的優點？",
+    "options": [
+      { "id": "A", "content": "節省成本", "isCorrect": false },
+      { "id": "B", "content": "隨機應變", "isCorrect": true },
+      { "id": "C", "content": "沒有時間限制", "isCorrect": false },
+      { "id": "D", "content": "沒有區域限制", "isCorrect": false }
+    ]
+  },
+  {
+    "id": "q-24",
+    "chapter": "第十二章",
+    "questionNumber": "10",
+    "type": "single",
+    "content": "下列哪種資訊系統可以管理上游的供應商與下游的顧客之間的鏈結程序？",
+    "options": [
+      { "id": "A", "content": "供應鏈管理(SCM)", "isCorrect": true },
+      { "id": "B", "content": "顧客關係管理(CRM)", "isCorrect": false },
+      { "id": "C", "content": "知識管理(KM)", "isCorrect": false },
+      { "id": "D", "content": "企業資源規劃(ERP)", "isCorrect": false }
+    ]
+  },
+  {
     "id": "q-25",
     "chapter": "第十三章",
     "questionNumber": "1",
@@ -40,7 +352,7 @@
   },
   {
     "id": "q-28",
-    "chapter": "第十三章",
+    "chapter": "自由防衛",
     "questionNumber": "4",
     "type": "single",
     "content": "下列哪種安全攻擊手法的目的是要破解密碼？",
@@ -69,7 +381,7 @@
     "chapter": "第十三章",
     "questionNumber": "6",
     "type": "single",
-    "content": "下列哪個安全服務類別會要求系統必須確保資訊不會外洩，包括不被竊聽和不被監控流量？",
+    "content": "下列哪個安全服務類別會要求系統必須確保資訊不會外洩，包括不被竊聽 and 不被監控流量？",
     "options": [
       { "id": "A", "content": "認證", "isCorrect": false },
       { "id": "B", "content": "完整性", "isCorrect": false },
@@ -173,7 +485,7 @@
     "chapter": "第十三章",
     "questionNumber": "14",
     "type": "single",
-    "content": "在使用非對稱式加密的前提下，假設甲方要傳送一份只有乙方能夠解密的資訊，那麼甲方必須使用下列何者進行加密？",
+    "content": "內在使用非對稱式加密的前提下，假設甲方要傳送一份只有乙方能夠解密的資訊，那麼甲方必須使用下列何者進行加密？",
     "options": [
       { "id": "A", "content": "甲方的公鑰", "isCorrect": false },
       { "id": "B", "content": "乙方的公鑰", "isCorrect": true },
@@ -212,7 +524,7 @@
     "chapter": "第十四章",
     "questionNumber": "1",
     "type": "single",
-    "content": "在資訊資訊倫理的四大議題中，人們有權決定自己的哪些資訊能夠公開，屬於下列哪個議題？",
+    "content": "在資訊倫理的四大議題中，人們有權決定自己的哪些資訊能夠公開，屬於下列哪個議題？",
     "options": [
       { "id": "A", "content": "隱私權", "isCorrect": true },
       { "id": "B", "content": "正確性", "isCorrect": false },
@@ -241,9 +553,9 @@
     "content": "下列哪種法律可以用來保護隱含在產品與技術背後的方法或技術？",
     "options": [
       { "id": "A", "content": "著作權法", "isCorrect": false },
-      { "id": "B", "content": "專利法", "isCorrect": true },
+      { "id": "B", "content": "專利法", "isCorrect": false },
       { "id": "C", "content": "公平交易法", "isCorrect": false },
-      { "id": "D", "content": "營業秘密法", "isCorrect": false }
+      { "id": "D", "content": "營業秘密法", "isCorrect": true }
     ]
   },
   {
@@ -279,10 +591,10 @@
     "type": "single",
     "content": "下列哪個敘述正確？",
     "options": [
-      { "id": "A", "content": "即使將賭博網站開設在允許博弈的國家，仍無法在國內經營賭博行業", "isCorrect": true },
+      { "id": "A", "content": "Even 將賭博網站開設在允許博弈的國家，仍無法在國內經營賭博行業", "isCorrect": true },
       { "id": "B", "content": "由於電玩寶物是虛擬的，所以偷了他人的電玩寶物並不違法", "isCorrect": false },
       { "id": "C", "content": "由於憲法保障言論自由，所以濫發垃圾郵件並不違法", "isCorrect": false },
-      { "id": "D", "经由 P2P 软件免费下载音乐的行为在目前是无法可管的": "經由 P2P 軟體免費下載音樂的行為在目前是無法可管的", "isCorrect": false }
+      { "id": "D", "content": "經由 P2P 軟體免費下載音樂的行為在目前是無法可管的", "isCorrect": false }
     ]
   },
   {
@@ -360,7 +672,7 @@
       { "id": "A", "content": "以侮辱性文字灌爆他人的臉書不會違法", "isCorrect": false },
       { "id": "B", "content": "基於居家安全公布小偷監視器畫面不會違法", "isCorrect": true },
       { "id": "C", "content": "任何AI創作都不受著作權法保護", "isCorrect": false },
-      { "id": "D", "content": "透過人肉搜索踢爆官員貪污將觸犯個人資料保護法", "isCorrect": false }
+      { "id": "D", "content": "D", "content": "透過人肉搜索踢爆官員貪污將觸犯個人資料保護法", "isCorrect": false }
     ]
   }
 ]
