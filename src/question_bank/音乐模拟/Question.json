@@ -1,0 +1,1452 @@
+[
+  {
+    "id": 2155597,
+    "chapter": "通用",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "下列關於音樂劇的敘述，何者有誤？",
+    "options": [
+      {
+        "id": 7769842,
+        "content": "百老匯是重要的發展地之一",
+        "isCorrect": false
+      },
+      {
+        "id": 7769839,
+        "content": "以美聲唱法為主要演唱方式",
+        "isCorrect": true
+      },
+      {
+        "id": 7769848,
+        "content": "倫敦西區是重要的發展地之一",
+        "isCorrect": false
+      },
+      {
+        "id": 7769845,
+        "content": "大多以英文或法文演唱",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155477,
+    "chapter": "通用",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "陳達是哪一個地區的民間說唱藝人? ",
+    "options": [
+      {
+        "id": 7769362,
+        "content": "西部平原",
+        "isCorrect": false
+      },
+      {
+        "id": 7769365,
+        "content": "恆春",
+        "isCorrect": true
+      },
+      {
+        "id": 7769368,
+        "content": "花東",
+        "isCorrect": false
+      },
+      {
+        "id": 7769359,
+        "content": "北宜",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155519,
+    "chapter": "通用",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "西洋音樂史「浪漫時期」的年代約為？",
+    "options": [
+      {
+        "id": 7769536,
+        "content": "1750-1820",
+        "isCorrect": false
+      },
+      {
+        "id": 7769527,
+        "content": "1820-1900",
+        "isCorrect": true
+      },
+      {
+        "id": 7769530,
+        "content": "1400-1650",
+        "isCorrect": false
+      },
+      {
+        "id": 7769533,
+        "content": "1600-1750",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155555,
+    "chapter": "通用",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "下列關於神劇的敘述，何者正確？ ",
+    "options": [
+      {
+        "id": 7769677,
+        "content": "演出方式不使用舞臺效果，無場景、無動作",
+        "isCorrect": true
+      },
+      {
+        "id": 7769680,
+        "content": "加入芭蕾舞",
+        "isCorrect": false
+      },
+      {
+        "id": 7769671,
+        "content": "取材自希臘神話",
+        "isCorrect": false
+      },
+      {
+        "id": 7769674,
+        "content": "中世紀時期許多作曲家創作此曲種",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155534,
+    "chapter": "通用",
+    "questionNumber": "5",
+    "type": "single",
+    "content": "哪一位音樂家的音樂強烈展現出對民族的情感與對國土的熱愛，被稱為捷克音樂之父？",
+    "options": [
+      {
+        "id": 7769593,
+        "content": "貝多芬",
+        "isCorrect": false
+      },
+      {
+        "id": 7769590,
+        "content": "舒伯特",
+        "isCorrect": false
+      },
+      {
+        "id": 7769596,
+        "content": "斯梅塔納",
+        "isCorrect": true
+      },
+      {
+        "id": 7769587,
+        "content": "海頓",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155588,
+    "chapter": "通用",
+    "questionNumber": "6",
+    "type": "single",
+    "content": "下列哪一個是《真善美》（The Sound of Music）歌曲〈孤獨的牧羊人〉（The Lonely Goatherd）所使用的唱腔？",
+    "options": [
+      {
+        "id": 7769806,
+        "content": "呼麥",
+        "isCorrect": false
+      },
+      {
+        "id": 7769809,
+        "content": "美聲",
+        "isCorrect": false
+      },
+      {
+        "id": 7769812,
+        "content": "小嗓",
+        "isCorrect": false
+      },
+      {
+        "id": 7769803,
+        "content": "約德爾",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155492,
+    "chapter": "通用",
+    "questionNumber": "7",
+    "type": "single",
+    "content": "下列何者不是1945-1987 戰後、戒嚴時期著名歌曲？著名歌曲？ ",
+    "options": [
+      {
+        "id": 7769428,
+        "content": "補破網",
+        "isCorrect": false
+      },
+      {
+        "id": 7769419,
+        "content": "望春風",
+        "isCorrect": true
+      },
+      {
+        "id": 7769425,
+        "content": "燒肉粽",
+        "isCorrect": false
+      },
+      {
+        "id": 7769422,
+        "content": "望你早歸",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155504,
+    "chapter": "通用",
+    "questionNumber": "8",
+    "type": "single",
+    "content": "哪一個時期戲曲發展出不同的地方聲腔，以 崑曲最受歡迎？",
+    "options": [
+      {
+        "id": 7769467,
+        "content": "漢",
+        "isCorrect": false
+      },
+      {
+        "id": 7769470,
+        "content": "宋",
+        "isCorrect": false
+      },
+      {
+        "id": 7769473,
+        "content": "明",
+        "isCorrect": true
+      },
+      {
+        "id": 7769476,
+        "content": "清",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155489,
+    "chapter": "通用",
+    "questionNumber": "9",
+    "type": "single",
+    "content": "下列對於台灣創作音樂的敘述何者錯誤？",
+    "options": [
+      {
+        "id": 7769413,
+        "content": "1975 年楊弦以余光中的詩集譜曲，在臺北市中山堂舉辦的「現代民謠創作演唱會」，結合流行音樂與現代詩歌，被視為「校園歌曲」時代的開端",
+        "isCorrect": false
+      },
+      {
+        "id": 7769410,
+        "content": "1990 年代，電視開始成為臺灣家家戶戶的設備，臺視歌唱節目「群星會」開播，國語流行音樂便逐漸崛起，此時期膾炙人口的國語歌曲有〈不了情〉、〈月亮代表我的心〉等。",
+        "isCorrect": true
+      },
+      {
+        "id": 7769416,
+        "content": "〈美麗島〉是李雙澤最為人所知的歌曲，也是「校園民歌」年代演唱會的壓軸歌曲",
+        "isCorrect": false
+      },
+      {
+        "id": 7769407,
+        "content": "胡德夫，常以動人的歌聲為原住民族民主及社會議題發聲，創作歌曲〈太平洋的風〉，將原住民族創作音樂推向另一個高峰",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155507,
+    "chapter": "通用",
+    "questionNumber": "10",
+    "type": "single",
+    "content": "下列何者不是中國傳統的記譜法？",
+    "options": [
+      {
+        "id": 7769488,
+        "content": "文字譜",
+        "isCorrect": false
+      },
+      {
+        "id": 7769479,
+        "content": "工尺譜",
+        "isCorrect": false
+      },
+      {
+        "id": 7769482,
+        "content": "減字譜",
+        "isCorrect": false
+      },
+      {
+        "id": 7769485,
+        "content": "紐碼譜",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155459,
+    "chapter": "通用",
+    "questionNumber": "11",
+    "type": "single",
+    "content": "節奏自由，可隨唱詞的詞組韻律、詞意，自由變化旋律的長短，此為臺灣北部客家族群的何種樂曲？   ",
+    "options": [
+      {
+        "id": 7769290,
+        "content": "山歌子",
+        "isCorrect": false
+      },
+      {
+        "id": 7769296,
+        "content": "老山歌",
+        "isCorrect": true
+      },
+      {
+        "id": 7769293,
+        "content": "平板",
+        "isCorrect": false
+      },
+      {
+        "id": 7769287,
+        "content": "小調",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155516,
+    "chapter": "通用",
+    "questionNumber": "12",
+    "type": "single",
+    "content": "下列何者是古典時期具代表性的器樂曲？ ",
+    "options": [
+      {
+        "id": 7769524,
+        "content": "交響曲",
+        "isCorrect": true
+      },
+      {
+        "id": 7769521,
+        "content": "觸技曲",
+        "isCorrect": false
+      },
+      {
+        "id": 7769515,
+        "content": "復格曲",
+        "isCorrect": false
+      },
+      {
+        "id": 7769518,
+        "content": "組曲",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155540,
+    "chapter": "通用",
+    "questionNumber": "13",
+    "type": "single",
+    "content": "哪一個時期的音樂開始走進中產階級的生活，不再只為了宮廷或教會服務？",
+    "options": [
+      {
+        "id": 7769611,
+        "content": "文藝復興",
+        "isCorrect": false
+      },
+      {
+        "id": 7769617,
+        "content": "古典",
+        "isCorrect": false
+      },
+      {
+        "id": 7769620,
+        "content": "浪漫",
+        "isCorrect": true
+      },
+      {
+        "id": 7769614,
+        "content": "巴洛克",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155525,
+    "chapter": "通用",
+    "questionNumber": "14",
+    "type": "single",
+    "content": "海頓《驚愕》交響曲的第二樂章是何種曲式？         ",
+    "options": [
+      {
+        "id": 7769560,
+        "content": "奏鳴曲式",
+        "isCorrect": false
+      },
+      {
+        "id": 7769557,
+        "content": "復格曲式",
+        "isCorrect": false
+      },
+      {
+        "id": 7769551,
+        "content": "卡農曲式",
+        "isCorrect": false
+      },
+      {
+        "id": 7769554,
+        "content": "變奏曲式",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155465,
+    "chapter": "通用",
+    "questionNumber": "15",
+    "type": "single",
+    "content": "下列何者是北部地區的民謠？               ",
+    "options": [
+      {
+        "id": 7769311,
+        "content": "六月茉莉",
+        "isCorrect": false
+      },
+      {
+        "id": 7769317,
+        "content": "思想起",
+        "isCorrect": false
+      },
+      {
+        "id": 7769320,
+        "content": "牛犁歌",
+        "isCorrect": false
+      },
+      {
+        "id": 7769314,
+        "content": "丟丟銅仔",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155483,
+    "chapter": "通用",
+    "questionNumber": "16",
+    "type": "single",
+    "content": "下列何者不屬於1970年代之後的「校園歌曲」？",
+    "options": [
+      {
+        "id": 7769389,
+        "content": "〈橄欖樹〉",
+        "isCorrect": false
+      },
+      {
+        "id": 7769386,
+        "content": "〈如果〉",
+        "isCorrect": false
+      },
+      {
+        "id": 7769392,
+        "content": "〈向前走〉",
+        "isCorrect": true
+      },
+      {
+        "id": 7769383,
+        "content": "〈讓我們看雲去〉",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155501,
+    "chapter": "通用",
+    "questionNumber": "17",
+    "type": "single",
+    "content": "下列何者是「瓦舍」和「勾欄」的意思？",
+    "options": [
+      {
+        "id": 7769464,
+        "content": "政府設立管理音樂的機構",
+        "isCorrect": false
+      },
+      {
+        "id": 7769455,
+        "content": "戲曲最早形式",
+        "isCorrect": false
+      },
+      {
+        "id": 7769458,
+        "content": "不同的地方聲腔",
+        "isCorrect": false
+      },
+      {
+        "id": 7769461,
+        "content": "觀賞音樂的場所",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155603,
+    "chapter": "通用",
+    "questionNumber": "18",
+    "type": "single",
+    "content": "下列關於音樂劇唱腔\"Belt\"的敘述，何者錯誤？  ",
+    "options": [
+      {
+        "id": 7769872,
+        "content": "《悲慘世界》中的艾波寧屬於此唱腔",
+        "isCorrect": false
+      },
+      {
+        "id": 7769863,
+        "content": "用較多的胸腔共鳴",
+        "isCorrect": false
+      },
+      {
+        "id": 7769869,
+        "content": "《冰雪奇緣》中的雪寶是此唱腔的代表",
+        "isCorrect": true
+      },
+      {
+        "id": 7769866,
+        "content": "常用吶喊或嘶吼的音色",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155579,
+    "chapter": "通用",
+    "questionNumber": "19",
+    "type": "single",
+    "content": "下列關於《D小調觸技曲與復格曲》之描述，何者有誤？",
+    "options": [
+      {
+        "id": 7769767,
+        "content": "作曲者為巴赫",
+        "isCorrect": false
+      },
+      {
+        "id": 7769776,
+        "content": "常是電影中吸血鬼出現場景的配樂",
+        "isCorrect": false
+      },
+      {
+        "id": 7769770,
+        "content": "為小提琴演奏之樂曲",
+        "isCorrect": true
+      },
+      {
+        "id": 7769773,
+        "content": "是巴洛克時期的作品",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155528,
+    "chapter": "通用",
+    "questionNumber": "20",
+    "type": "single",
+    "content": "下列何者不是古典時期的器樂特色？ ",
+    "options": [
+      {
+        "id": 7769572,
+        "content": "旋律與伴奏的從屬關係更為明確",
+        "isCorrect": false
+      },
+      {
+        "id": 7769563,
+        "content": "鋼琴取代了大鍵琴",
+        "isCorrect": false
+      },
+      {
+        "id": 7769569,
+        "content": "音樂多為絕對音樂",
+        "isCorrect": false
+      },
+      {
+        "id": 7769566,
+        "content": "偏好創作複音音樂",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155570,
+    "chapter": "通用",
+    "questionNumber": "21",
+    "type": "single",
+    "content": "下列關於韓德爾的敘述，何者錯誤？  ",
+    "options": [
+      {
+        "id": 7769734,
+        "content": "巴洛克時期的作曲家",
+        "isCorrect": false
+      },
+      {
+        "id": 7769737,
+        "content": "創作神劇《彌賽亞》",
+        "isCorrect": false
+      },
+      {
+        "id": 7769740,
+        "content": "曾獲得英國皇家的賞識至英國發展",
+        "isCorrect": false
+      },
+      {
+        "id": 7769731,
+        "content": "畢生為教堂音樂總監",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155495,
+    "chapter": "通用",
+    "questionNumber": "22",
+    "type": "single",
+    "content": "關於〈向前走〉的敘述何者錯誤？",
+    "options": [
+      {
+        "id": 7769434,
+        "content": "打破臺語歌曲苦情、江湖味的印象",
+        "isCorrect": false
+      },
+      {
+        "id": 7769440,
+        "content": "引發「校園歌曲」創作的風潮",
+        "isCorrect": true
+      },
+      {
+        "id": 7769431,
+        "content": "屬於西洋搖滾樂風格",
+        "isCorrect": false
+      },
+      {
+        "id": 7769437,
+        "content": "帶動流行樂界的「新臺語歌運動」",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155498,
+    "chapter": "通用",
+    "questionNumber": "23",
+    "type": "single",
+    "content": "哪一個時期是歷史上初次漢夷交流。透過絲路，遊牧民族的音樂及樂器（胡笳、琵琶等）傳入中國？",
+    "options": [
+      {
+        "id": 7769449,
+        "content": "隋",
+        "isCorrect": false
+      },
+      {
+        "id": 7769452,
+        "content": "唐",
+        "isCorrect": false
+      },
+      {
+        "id": 7769446,
+        "content": "漢",
+        "isCorrect": true
+      },
+      {
+        "id": 7769443,
+        "content": "秦",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155564,
+    "chapter": "通用",
+    "questionNumber": "24",
+    "type": "single",
+    "content": "下列關於巴洛克的敘述，何者有誤？          ",
+    "options": [
+      {
+        "id": 7769707,
+        "content": "年代約為1600-1750",
+        "isCorrect": false
+      },
+      {
+        "id": 7769716,
+        "content": "以無伴奏（a cappella）合唱主要的音樂表現形式",
+        "isCorrect": true
+      },
+      {
+        "id": 7769713,
+        "content": "常使用頑固低音",
+        "isCorrect": false
+      },
+      {
+        "id": 7769710,
+        "content": "由於器樂的發展逐漸完備，脫離過去伴奏的角色，成為主角",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155582,
+    "chapter": "通用",
+    "questionNumber": "25",
+    "type": "single",
+    "content": "〈末日經〉的拉丁文\"Dies Irae\"是什麼意思？ ",
+    "options": [
+      {
+        "id": 7769782,
+        "content": "安魂",
+        "isCorrect": false
+      },
+      {
+        "id": 7769779,
+        "content": "彌撒",
+        "isCorrect": false
+      },
+      {
+        "id": 7769785,
+        "content": "審判",
+        "isCorrect": false
+      },
+      {
+        "id": 7769788,
+        "content": "震怒之日",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155480,
+    "chapter": "通用",
+    "questionNumber": "26",
+    "type": "single",
+    "content": "下列關於原住民樂器的配對，何者錯誤?  ",
+    "options": [
+      {
+        "id": 7769374,
+        "content": "達悟族一弓琴",
+        "isCorrect": true
+      },
+      {
+        "id": 7769380,
+        "content": "邵族一木杵",
+        "isCorrect": false
+      },
+      {
+        "id": 7769377,
+        "content": "排灣族一鼻笛",
+        "isCorrect": false
+      },
+      {
+        "id": 7769371,
+        "content": "泰雅族一口簧琴",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155531,
+    "chapter": "通用",
+    "questionNumber": "27",
+    "type": "single",
+    "content": "西洋音樂史「古典時期」的年代約為    ",
+    "options": [
+      {
+        "id": 7769581,
+        "content": "1600-1750",
+        "isCorrect": false
+      },
+      {
+        "id": 7769575,
+        "content": "1700-1800",
+        "isCorrect": false
+      },
+      {
+        "id": 7769584,
+        "content": "1750-1820",
+        "isCorrect": true
+      },
+      {
+        "id": 7769578,
+        "content": "1400-1650",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155468,
+    "chapter": "通用",
+    "questionNumber": "28",
+    "type": "single",
+    "content": "下列關於台灣原住民音樂的敘述，何者錯誤?",
+    "options": [
+      {
+        "id": 7769329,
+        "content": "布農族沒有樂器",
+        "isCorrect": true
+      },
+      {
+        "id": 7769326,
+        "content": "臺灣原住民族的器樂不若歌謠發達",
+        "isCorrect": false
+      },
+      {
+        "id": 7769323,
+        "content": "由於原住民族並無文字，因此歌謠成為記錄生活與傳承歷史的重要方法",
+        "isCorrect": false
+      },
+      {
+        "id": 7769332,
+        "content": "臀鈴是賽夏族的樂器",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155585,
+    "chapter": "通用",
+    "questionNumber": "29",
+    "type": "single",
+    "content": "下列關於〈D大調卡農曲〉之敘述，何者有誤？          ",
+    "options": [
+      {
+        "id": 7769800,
+        "content": "採用持續低音",
+        "isCorrect": true
+      },
+      {
+        "id": 7769794,
+        "content": "採用頑固低音",
+        "isCorrect": false
+      },
+      {
+        "id": 7769791,
+        "content": "作曲家為帕海貝爾",
+        "isCorrect": false
+      },
+      {
+        "id": 7769797,
+        "content": "是巴洛克時期的音樂作品",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155606,
+    "chapter": "通用",
+    "questionNumber": "30",
+    "type": "single",
+    "content": "下列關於音樂劇唱腔\"Character\"的敘述，何者正確？ ",
+    "options": [
+      {
+        "id": 7769884,
+        "content": "《悲慘世界》的艾波寧是此唱腔的代表",
+        "isCorrect": false
+      },
+      {
+        "id": 7769878,
+        "content": "為極具誇張個性或特色角色的唱腔",
+        "isCorrect": true
+      },
+      {
+        "id": 7769875,
+        "content": "通常是主要角色",
+        "isCorrect": false
+      },
+      {
+        "id": 7769881,
+        "content": "《冰雪奇緣》中的安娜是此唱腔的代表",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155537,
+    "chapter": "通用",
+    "questionNumber": "31",
+    "type": "single",
+    "content": "貝多芬的鋼琴曲《悲愴》第一樂章是何種曲式?",
+    "options": [
+      {
+        "id": 7769608,
+        "content": "奏鳴曲式",
+        "isCorrect": true
+      },
+      {
+        "id": 7769599,
+        "content": "卡農曲式",
+        "isCorrect": false
+      },
+      {
+        "id": 7769605,
+        "content": "變奏曲式",
+        "isCorrect": false
+      },
+      {
+        "id": 7769602,
+        "content": "復格曲式",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155549,
+    "chapter": "通用",
+    "questionNumber": "32",
+    "type": "single",
+    "content": "下列關於「格雷果聖歌」的描述，何者錯誤？          ",
+    "options": [
+      {
+        "id": 7769647,
+        "content": "歌詞為拉丁文",
+        "isCorrect": false
+      },
+      {
+        "id": 7769650,
+        "content": "以大跳音域為主",
+        "isCorrect": true
+      },
+      {
+        "id": 7769653,
+        "content": "採用教會調式",
+        "isCorrect": false
+      },
+      {
+        "id": 7769656,
+        "content": "男聲演唱",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155573,
+    "chapter": "通用",
+    "questionNumber": "33",
+    "type": "single",
+    "content": "現代音階唱名系統的雛型源自於以下哪一首歌?",
+    "options": [
+      {
+        "id": 7769749,
+        "content": "末日經",
+        "isCorrect": false
+      },
+      {
+        "id": 7769746,
+        "content": "聖約翰讚美詩",
+        "isCorrect": true
+      },
+      {
+        "id": 7769752,
+        "content": "哈利路亞",
+        "isCorrect": false
+      },
+      {
+        "id": 7769743,
+        "content": "教皇馬爾切里",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155576,
+    "chapter": "通用",
+    "questionNumber": "34",
+    "type": "single",
+    "content": "關於中世紀時期格雷果聖歌所採用的記譜方式，何者正確？",
+    "options": [
+      {
+        "id": 7769761,
+        "content": "低音譜",
+        "isCorrect": false
+      },
+      {
+        "id": 7769758,
+        "content": "五線譜",
+        "isCorrect": false
+      },
+      {
+        "id": 7769755,
+        "content": "高音譜",
+        "isCorrect": false
+      },
+      {
+        "id": 7769764,
+        "content": "紐瑪譜",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155546,
+    "chapter": "通用",
+    "questionNumber": "35",
+    "type": "single",
+    "content": "西洋音樂史「文藝復興」的年代約為   ",
+    "options": [
+      {
+        "id": 7769644,
+        "content": "500-1450",
+        "isCorrect": false
+      },
+      {
+        "id": 7769635,
+        "content": "1450-1600",
+        "isCorrect": true
+      },
+      {
+        "id": 7769641,
+        "content": "1750-1820",
+        "isCorrect": false
+      },
+      {
+        "id": 7769638,
+        "content": "1500-1750",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155591,
+    "chapter": "通用",
+    "questionNumber": "36",
+    "type": "single",
+    "content": "下列何者不是音樂劇常用的唱腔？  ",
+    "options": [
+      {
+        "id": 7769821,
+        "content": "Belt",
+        "isCorrect": false
+      },
+      {
+        "id": 7769824,
+        "content": "Character",
+        "isCorrect": false
+      },
+      {
+        "id": 7769815,
+        "content": "Legit",
+        "isCorrect": false
+      },
+      {
+        "id": 7769818,
+        "content": "Yodeling",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155471,
+    "chapter": "通用",
+    "questionNumber": "37",
+    "type": "single",
+    "content": "下列關於原住民口簧琴的敘述何者錯誤? ",
+    "options": [
+      {
+        "id": 7769344,
+        "content": "3簧以上的銅片口簧琴是臺灣原住民族所特有",
+        "isCorrect": false
+      },
+      {
+        "id": 7769338,
+        "content": "可以坐姿、立姿演奏，也可以邊吹奏邊跳舞",
+        "isCorrect": false
+      },
+      {
+        "id": 7769341,
+        "content": "可用於戀愛訴情、獵首信號、舞蹈伴奏等用途",
+        "isCorrect": false
+      },
+      {
+        "id": 7769335,
+        "content": "以石板為材料製成",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155567,
+    "chapter": "通用",
+    "questionNumber": "38",
+    "type": "single",
+    "content": "下列關於「復格」之描述，何者有誤？              ",
+    "options": [
+      {
+        "id": 7769722,
+        "content": "包含主題、答句、對句與插入段",
+        "isCorrect": false
+      },
+      {
+        "id": 7769719,
+        "content": "是巴洛克時期最嚴謹完美的曲式",
+        "isCorrect": false
+      },
+      {
+        "id": 7769725,
+        "content": "代表作曲者為巴赫",
+        "isCorrect": false
+      },
+      {
+        "id": 7769728,
+        "content": "是無伴奏合唱",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155522,
+    "chapter": "通用",
+    "questionNumber": "39",
+    "type": "single",
+    "content": "哪一位音樂家被譽為「德國藝術歌曲之王」？",
+    "options": [
+      {
+        "id": 7769539,
+        "content": "海頓",
+        "isCorrect": false
+      },
+      {
+        "id": 7769545,
+        "content": "貝多芬",
+        "isCorrect": false
+      },
+      {
+        "id": 7769548,
+        "content": "斯梅塔納",
+        "isCorrect": false
+      },
+      {
+        "id": 7769542,
+        "content": "舒伯特",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155594,
+    "chapter": "通用",
+    "questionNumber": "40",
+    "type": "single",
+    "content": "下列關於小嗓唱腔的敘述，何者正確？",
+    "options": [
+      {
+        "id": 7769833,
+        "content": "用假嗓發出的假聲，假聲相對於真聲，在發聲時喉孔縮小、氣流變細，發聲位置比真聲高",
+        "isCorrect": true
+      },
+      {
+        "id": 7769827,
+        "content": "是一種伴隨快速、重複地進行胸聲―頭聲間轉換的大跨度音階歌唱形式，產生一串高-低-高-低的聲音",
+        "isCorrect": false
+      },
+      {
+        "id": 7769830,
+        "content": "是一種典型運用泛音的歌唱方式，歌者能在一個持續的低音之上，同時唱出另一個像口 哨聲的高音",
+        "isCorrect": false
+      },
+      {
+        "id": 7769836,
+        "content": "用較多的胸腔共鳴與吶喊或嘶吼的音色",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155486,
+    "chapter": "通用",
+    "questionNumber": "41",
+    "type": "single",
+    "content": "下列何者不是日治時期的歌曲？ ",
+    "options": [
+      {
+        "id": 7769395,
+        "content": "〈桃花泣血記〉",
+        "isCorrect": false
+      },
+      {
+        "id": 7769398,
+        "content": "〈跳舞時代〉",
+        "isCorrect": false
+      },
+      {
+        "id": 7769404,
+        "content": "〈雨夜花〉",
+        "isCorrect": false
+      },
+      {
+        "id": 7769401,
+        "content": "〈燒肉粽〉",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155513,
+    "chapter": "通用",
+    "questionNumber": "42",
+    "type": "single",
+    "content": "交響詩《我的祖國》是哪一位音樂家的作品？",
+    "options": [
+      {
+        "id": 7769512,
+        "content": "斯梅塔納",
+        "isCorrect": true
+      },
+      {
+        "id": 7769509,
+        "content": "貝多芬",
+        "isCorrect": false
+      },
+      {
+        "id": 7769506,
+        "content": "舒伯特",
+        "isCorrect": false
+      },
+      {
+        "id": 7769503,
+        "content": "海頓",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155558,
+    "chapter": "通用",
+    "questionNumber": "43",
+    "type": "single",
+    "content": "下列關於樂曲《教皇馬爾切里》的敘述，何者有誤？     ",
+    "options": [
+      {
+        "id": 7769683,
+        "content": "是複音音樂",
+        "isCorrect": false
+      },
+      {
+        "id": 7769692,
+        "content": "使用頑固低音",
+        "isCorrect": true
+      },
+      {
+        "id": 7769686,
+        "content": "是文藝復興時期的音樂作品",
+        "isCorrect": false
+      },
+      {
+        "id": 7769689,
+        "content": "是無伴奏合唱",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155561,
+    "chapter": "通用",
+    "questionNumber": "44",
+    "type": "single",
+    "content": "西洋音樂史「中世紀」盛行的音樂為何？  ",
+    "options": [
+      {
+        "id": 7769704,
+        "content": "交響曲",
+        "isCorrect": false
+      },
+      {
+        "id": 7769698,
+        "content": "俗樂",
+        "isCorrect": false
+      },
+      {
+        "id": 7769695,
+        "content": "奏鳴曲",
+        "isCorrect": false
+      },
+      {
+        "id": 7769701,
+        "content": "格雷果聖歌",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155510,
+    "chapter": "通用",
+    "questionNumber": "45",
+    "type": "single",
+    "content": "下面關於工尺譜的敘述何者錯誤？",
+    "options": [
+      {
+        "id": 7769497,
+        "content": "「上尺工」表示音名「C、D、E」",
+        "isCorrect": true
+      },
+      {
+        "id": 7769494,
+        "content": "節奏符號稱為「板眼」標示在文字右側",
+        "isCorrect": false
+      },
+      {
+        "id": 7769500,
+        "content": "「凡六五」表示唱名「fa、sol、la」",
+        "isCorrect": false
+      },
+      {
+        "id": 7769491,
+        "content": "宋、元之後，許多器樂作品和戲曲唱腔採用工尺譜記載",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155543,
+    "chapter": "通用",
+    "questionNumber": "46",
+    "type": "single",
+    "content": "藝術歌曲〈魔王〉是哪一位音樂家的作品？",
+    "options": [
+      {
+        "id": 7769623,
+        "content": "海頓",
+        "isCorrect": false
+      },
+      {
+        "id": 7769632,
+        "content": "斯梅塔納",
+        "isCorrect": false
+      },
+      {
+        "id": 7769629,
+        "content": "貝多芬",
+        "isCorrect": false
+      },
+      {
+        "id": 7769626,
+        "content": "舒伯特",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155552,
+    "chapter": "通用",
+    "questionNumber": "47",
+    "type": "single",
+    "content": "下列關於巴赫之敘述，何者有誤？      ",
+    "options": [
+      {
+        "id": 7769659,
+        "content": "創作《D小調觸技曲與復格曲》",
+        "isCorrect": false
+      },
+      {
+        "id": 7769665,
+        "content": "被尊為音樂之父",
+        "isCorrect": false
+      },
+      {
+        "id": 7769662,
+        "content": "創作《平均律鍵盤曲集》",
+        "isCorrect": false
+      },
+      {
+        "id": 7769668,
+        "content": "為文藝復興時期的音樂大師",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2155600,
+    "chapter": "通用",
+    "questionNumber": "48",
+    "type": "single",
+    "content": "音樂劇在1980年代發展為大型的音樂劇，何者非此時期大型音樂劇的代表？  ",
+    "options": [
+      {
+        "id": 7769854,
+        "content": "《歌劇魅影》",
+        "isCorrect": false
+      },
+      {
+        "id": 7769857,
+        "content": "《貓》",
+        "isCorrect": false
+      },
+      {
+        "id": 7769851,
+        "content": "《鐘樓怪人》",
+        "isCorrect": true
+      },
+      {
+        "id": 7769860,
+        "content": "《西貢小姐》",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155474,
+    "chapter": "通用",
+    "questionNumber": "49",
+    "type": "single",
+    "content": "下列何者是西部地區的民謠？         ",
+    "options": [
+      {
+        "id": 7769353,
+        "content": "思想起",
+        "isCorrect": false
+      },
+      {
+        "id": 7769347,
+        "content": "丟丟銅仔",
+        "isCorrect": false
+      },
+      {
+        "id": 7769356,
+        "content": "牛犁歌",
+        "isCorrect": true
+      },
+      {
+        "id": 7769350,
+        "content": "五工工",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2155462,
+    "chapter": "通用",
+    "questionNumber": "50",
+    "type": "single",
+    "content": "下列何者是恆春地區的民謠？",
+    "options": [
+      {
+        "id": 7769302,
+        "content": "丟丟銅仔",
+        "isCorrect": false
+      },
+      {
+        "id": 7769305,
+        "content": "思想起",
+        "isCorrect": true
+      },
+      {
+        "id": 7769299,
+        "content": "六月茉莉",
+        "isCorrect": false
+      },
+      {
+        "id": 7769308,
+        "content": "牛犁歌",
+        "isCorrect": false
+      }
+    ]
+  }
+]
