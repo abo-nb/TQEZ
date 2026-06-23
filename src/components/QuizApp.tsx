@@ -1,7 +1,7 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { Brain, CheckCircle2, XCircle, AlertCircle, RefreshCw, Layers, BookOpen, BarChart2 } from 'lucide-react';
+import { Brain, CheckCircle2, XCircle, AlertCircle, RefreshCw, Layers, BookOpen, BarChart2, RotateCcw } from 'lucide-react';
 import { Question, SM2Progress } from '../types';
 import { calculateNextSM2, initSM2Progress } from '../lib/sm2';
 import { allSubjects, subjectList } from '../question_bank';
@@ -195,6 +195,16 @@ export default function QuizApp() {
     });
   };
 
+  const handleResetProgress = () => {
+    if (window.confirm('确定要清空所有的刷题记录并重新开始吗？这无法撤销。')) {
+      setProgress({});
+      localStorage.removeItem('sm2-progress');
+      setCurrentQuestion(getNextQuestion(filteredQuestions, {}, []));
+      setIsRevealed(false);
+      setSelectedOptionIds([]);
+    }
+  };
+
   if (!currentQuestion) {
     return (
       <div className="min-h-screen bg-slate-50 flex items-center justify-center p-4">
@@ -253,6 +263,13 @@ export default function QuizApp() {
             >
               <BarChart2 className="w-4 h-4" />
               <span>统计</span>
+            </button>
+            <button
+              onClick={handleResetProgress}
+              className="flex items-center justify-center space-x-1 px-3 py-2 bg-red-50 hover:bg-red-100 text-red-700 rounded-lg text-sm font-medium transition-colors"
+              title="重置学习进度"
+            >
+              <RotateCcw className="w-4 h-4" />
             </button>
           </div>
         </div>
