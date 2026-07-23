@@ -1,0 +1,4700 @@
+[
+  {
+    "id": 1,
+    "chapter": "",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "下列何者為緊急救護技術員之英文簡稱?",
+    "options": [
+      {
+        "id": 1,
+        "content": "FBI",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "EMS",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "CIA",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "EMT",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chapter": "",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "成人於清醒且休息時每分鐘呼吸速率為? ",
+    "options": [
+      {
+        "id": 1,
+        "content": "5-10次",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "6-12次",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "10-12次",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "10-20次",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chapter": "",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "成人正常血壓為多少?",
+    "options": [
+      {
+        "id": 1,
+        "content": "120/80 mmHg",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "90/60 mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "110/70 mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "210/180 mmHg",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chapter": "",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "體溫正常範圍為多少?",
+    "options": [
+      {
+        "id": 1,
+        "content": "36~37 °C",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "35.5~36.5 °C",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "38~40 °C",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "36.5~37.5 °C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chapter": "",
+    "questionNumber": "5",
+    "type": "single",
+    "content": "傷病患臉色膚色蒼白之原因為下列何者?",
+    "options": [
+      {
+        "id": 1,
+        "content": "失血或體液流失過多",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "血液內含氧量過低",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "一氧化碳中毒",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "過敏性休克",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chapter": "",
+    "questionNumber": "6",
+    "type": "single",
+    "content": "正常情況下血氧濃度低於多少需要供給傷病患供氧?",
+    "options": [
+      {
+        "id": 1,
+        "content": "97%",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "96%",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "95%",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "94%",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chapter": "",
+    "questionNumber": "7",
+    "type": "single",
+    "content": "傷病患每分鐘呼吸次數大於或小於多少為危急個案?",
+    "options": [
+      {
+        "id": 1,
+        "content": ">20或<10次",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": ">30或<10次",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": ">15或<5次",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": ">10或<5次",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chapter": "",
+    "questionNumber": "8",
+    "type": "single",
+    "content": "傷病患收縮壓大於或小於多少為危急個案?",
+    "options": [
+      {
+        "id": 1,
+        "content": ">150或<50mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": ">100或<50mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": ">220或<90mmHg",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": ">250或<150mmHg",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "chapter": "",
+    "questionNumber": "9",
+    "type": "single",
+    "content": "傷病患血氧濃度低於多少為危急個案?",
+    "options": [
+      {
+        "id": 1,
+        "content": "90%",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "91%",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "92%",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "93%",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "chapter": "",
+    "questionNumber": "10",
+    "type": "single",
+    "content": "傷病患瞳孔不等大有可能是?",
+    "options": [
+      {
+        "id": 1,
+        "content": "顱內壓過高(腦疝脫)",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "安非他命、甲醇中毒",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "有機磷、鴉片類中毒",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "腦幹出血",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "chapter": "",
+    "questionNumber": "11",
+    "type": "single",
+    "content": "常用動脈點快速判斷血壓值(收縮壓)何者正確?",
+    "options": [
+      {
+        "id": 1,
+        "content": "頸動脈有跳動至少70mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "股動脈有跳動至少90mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "橈動脈有跳動至少80mmHg",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "肱動脈有跳動至少90mmHg",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "chapter": "",
+    "questionNumber": "12",
+    "type": "single",
+    "content": "傷病患血壓(收縮壓SBP與舒張壓DBP)低於多少有可能會休克?",
+    "options": [
+      {
+        "id": 1,
+        "content": "SBP<90，DBP<60mmHg",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "SBP<100，DBP<70mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "SBP<110，DBP<80mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "SBP<120，DBP<90mmHg",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "chapter": "",
+    "questionNumber": "13",
+    "type": "single",
+    "content": "葛氏昏迷指數之敘述何者正確?",
+    "options": [
+      {
+        "id": 1,
+        "content": "評估張眼、言語、運動反應",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "評估臉部、舉臂、語言反應",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "評估清、聲、痛、否",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "評估外觀、呼吸、循環反應",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "chapter": "",
+    "questionNumber": "14",
+    "type": "single",
+    "content": "病患疼痛刺激眼睛睜開，發出呻吟聲，身體會閃避昏迷指數為幾分?",
+    "options": [
+      {
+        "id": 1,
+        "content": "E:2 V:2 M:4",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "E:4 V:5 M:6",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "E:3 V:4 M:5",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "E:1 V:1 M:1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "chapter": "",
+    "questionNumber": "15",
+    "type": "single",
+    "content": "初級救護技術員使用袋瓣式甦醒球人工呼吸使用前應放置?",
+    "options": [
+      {
+        "id": 1,
+        "content": "鼻咽或口咽呼吸道",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "氣管內管",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "聲門上呼吸道",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆正確",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "chapter": "",
+    "questionNumber": "16",
+    "type": "single",
+    "content": "口咽呼吸道使用時機何者為錯誤?",
+    "options": [
+      {
+        "id": 1,
+        "content": "使用袋瓣式甦醒球前",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "病患意識昏迷呼吸時發出鼾音(對痛無反應)",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "病患意識不清呼吸時發出鼾音(對痛有反應)",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "OHCA病患",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "chapter": "",
+    "questionNumber": "17",
+    "type": "single",
+    "content": "成人OHCA約有 %機率為可電擊心律(VF)，非創傷性心臟停止能急救存活有  %最初的心律為VF?",
+    "options": [
+      {
+        "id": 1,
+        "content": "40%；70%",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "50%；80%",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "60%；90%",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "40%；90%",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "chapter": "",
+    "questionNumber": "18",
+    "type": "single",
+    "content": "AED電擊完成後應立即實施  已達到最好效果?",
+    "options": [
+      {
+        "id": 1,
+        "content": "檢查脈搏",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "檢查呼吸",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "心肺復甦",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "建立呼吸道",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "chapter": "",
+    "questionNumber": "19",
+    "type": "single",
+    "content": "傷病患嘴唇與手指顏色呈現紫色(發紺)之原因為下列何者?",
+    "options": [
+      {
+        "id": 1,
+        "content": "失血或體液流失過多",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "血液內含氧量過低",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "一氧化碳中毒",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "過敏性休克",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "chapter": "",
+    "questionNumber": "20",
+    "type": "single",
+    "content": "人體正常血量為體重的?",
+    "options": [
+      {
+        "id": 1,
+        "content": "1/2",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "1/5",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "1/10",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "1/13",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chapter": "",
+    "questionNumber": "21",
+    "type": "single",
+    "content": "下列何種狀況為呼吸異常?",
+    "options": [
+      {
+        "id": 1,
+        "content": "喘呼吸不適或困難、端坐呼吸等",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "使用呼吸輔助肌",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "異常呼吸音(喘鳴、哮鳴)",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "chapter": "",
+    "questionNumber": "22",
+    "type": "single",
+    "content": "慢性阻塞性肺病患者給氧建議何種正確?",
+    "options": [
+      {
+        "id": 1,
+        "content": "先使用鼻導管1-2L/min",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "簡稱COPD",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "血氧目標值維持90~92%即可",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "chapter": "",
+    "questionNumber": "23",
+    "type": "single",
+    "content": "有關辛辛那提腦中風指數何者正確",
+    "options": [
+      {
+        "id": 1,
+        "content": "三種檢查指標簡稱(微笑、殭屍、會說話)",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "任何一種異常且為新發作者腦中風可能性為72%",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "三項均異常則高達85%",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "chapter": "",
+    "questionNumber": "24",
+    "type": "single",
+    "content": "小兒評估三角以下敘述何者正確?",
+    "options": [
+      {
+        "id": 1,
+        "content": "外觀與呼吸異常代表-呼吸衰竭",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "外觀與循環異常代表-失償性休克",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "三者皆異常代表-心肺衰竭",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "chapter": "",
+    "questionNumber": "25",
+    "type": "single",
+    "content": "大量上病患是指單一事故或災害發生時，現場傷病患人數達  人以上或預判可能達多少  人以上",
+    "options": [
+      {
+        "id": 1,
+        "content": "15：15",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "20：20",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "35：35",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "40：40",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "chapter": "",
+    "questionNumber": "26",
+    "type": "single",
+    "content": "大量傷患的口訣「30-2-CAN DO 」意指快速評估傷患之?",
+    "options": [
+      {
+        "id": 1,
+        "content": "呼吸速率",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "CRT時間",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "意識程度",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "chapter": "",
+    "questionNumber": "27",
+    "type": "single",
+    "content": "成年人每分鐘胸部按壓速率何者正確?",
+    "options": [
+      {
+        "id": 1,
+        "content": "100~120次",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "100次",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "120次",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "130次。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "chapter": "",
+    "questionNumber": "28",
+    "type": "single",
+    "content": "1歲至青春期CPR二分鐘後每分鐘脈搏次數低於多少應繼續實施心肺復甦?",
+    "options": [
+      {
+        "id": 1,
+        "content": "80次",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "60次",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "50次",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "30次。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "chapter": "",
+    "questionNumber": "29",
+    "type": "single",
+    "content": "自動體外電擊去顫器電擊貼片位置何者正確?",
+    "options": [
+      {
+        "id": 1,
+        "content": "成人(右上，左下)",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "兒童<25公斤(前胸，後背)",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "按電擊貼片上之圖示黏貼",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆正確。",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "chapter": "",
+    "questionNumber": "30",
+    "type": "single",
+    "content": "使用簡單型面罩之流速何者正確?",
+    "options": [
+      {
+        "id": 1,
+        "content": "1~6ℓ/min",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "6~10ℓ/min",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "10~15ℓ/min",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "15以上ℓ/min。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "chapter": "",
+    "questionNumber": "31",
+    "type": "single",
+    "content": "心臟停止後幾分鐘後大腦細胞開始死亡?",
+    "options": [
+      {
+        "id": 1,
+        "content": "1-2分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "3-4分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "4-6分鐘",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "5-7分鐘。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "chapter": "",
+    "questionNumber": "32",
+    "type": "single",
+    "content": "救護人員出勤專業展示為何?",
+    "options": [
+      {
+        "id": 1,
+        "content": "攜帶合格證書",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "自我介紹",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "攜帶適當救護器材至現場",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是。",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "chapter": "",
+    "questionNumber": "33",
+    "type": "single",
+    "content": "骨盆骨折預估出血量為多少CC?",
+    "options": [
+      {
+        "id": 1,
+        "content": "500~1000",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "1000~2000",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "1500~3000",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "500~750",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "chapter": "",
+    "questionNumber": "34",
+    "type": "single",
+    "content": "休克患者處置何種正確?",
+    "options": [
+      {
+        "id": 1,
+        "content": "血氧小於94%應給予氧氣",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "後送時下肢抬高15-30公分",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "休克孕婦應採左側躺或墊高右腰臀10-15公分",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "chapter": "",
+    "questionNumber": "35",
+    "type": "single",
+    "content": "下列何者為吸入性傷害的表徵?",
+    "options": [
+      {
+        "id": 1,
+        "content": "顏面頸部燙傷、眉毛鼻毛燒焦、咳痰有碳粒、口咽部有碳粒",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "密閉空間灼燙傷、頭軀幹有爆炸性灼燙傷",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "呼吸聲有雜音或喘鳴音",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "chapter": "",
+    "questionNumber": "36",
+    "type": "single",
+    "content": "下列何者情況不符合緊急醫療救護法14-2條的免責條款",
+    "options": [
+      {
+        "id": 1,
+        "content": "正在休假中的消防隊員，與家人出遊時遇見OHCA患者，他協助持續按壓CPR",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "中級救護技術員於執行救護勤務時，對OHCA患者不施行急救",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "上班時同事暈倒，根據線上指導給予正確的急救措施",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "持有基本救命術相關證照的一般民眾，偶遇有人需要施予急救，他上前協助幫忙",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "chapter": "",
+    "questionNumber": "37",
+    "type": "single",
+    "content": "常引起兒童和嬰兒心跳停止的原因為何?",
+    "options": [
+      {
+        "id": 1,
+        "content": "心臟相關問題",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "癲癇",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "呼吸道及呼吸相關問題",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "頭部創傷",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "chapter": "",
+    "questionNumber": "38",
+    "type": "single",
+    "content": "危急個案應至少每幾分鐘測量一次生命徵象?",
+    "options": [
+      {
+        "id": 1,
+        "content": "15分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "10分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "5分鐘",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "4分鐘",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "chapter": "",
+    "questionNumber": "39",
+    "type": "single",
+    "content": "火場救出的傷患意識清醒，急救人員在現場對於患者給予氧氣時應使用何種器材？",
+    "options": [
+      {
+        "id": 1,
+        "content": "氧氣鼻導管",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "簡單型氧氣面罩。",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "非再吸入型面罩。",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "袋瓣罩甦醒球。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "chapter": "",
+    "questionNumber": "40",
+    "type": "single",
+    "content": "有關成人抽吸操作規範，抽吸時間應小於幾秒？",
+    "options": [
+      {
+        "id": 1,
+        "content": "成人15秒，兒童10秒",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "成人20秒，兒童15秒",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "成人30秒，兒童20秒",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "成人40秒，兒童30秒",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "chapter": "",
+    "questionNumber": "41",
+    "type": "single",
+    "content": "以下何種頸椎減移術需患者對痛無反應情況下才可以操作?",
+    "options": [
+      {
+        "id": 1,
+        "content": "頭部頸椎限制術",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "肩部頸椎減移術",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "胸骨脊椎減移術",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "雙膝頸椎減移術",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "chapter": "",
+    "questionNumber": "42",
+    "type": "single",
+    "content": "取得初級救護技術員資格之後，想要展延證照資格需在取得證照後三年內完成多久的複訓時數?",
+    "options": [
+      {
+        "id": 1,
+        "content": "72小時",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "24小時",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "96小時",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "48小時",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "chapter": "",
+    "questionNumber": "43",
+    "type": "single",
+    "content": "下列是現場死亡定義",
+    "options": [
+      {
+        "id": 1,
+        "content": "屍僵、屍腐",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "屍體焦黑",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "頭首分離",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "chapter": "",
+    "questionNumber": "44",
+    "type": "single",
+    "content": "救護紀錄表需保存幾年",
+    "options": [
+      {
+        "id": 1,
+        "content": "3年",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "5年",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "7年",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "9年",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "chapter": "",
+    "questionNumber": "45",
+    "type": "single",
+    "content": "將口咽呼吸道凹面朝傷病患臉頰測量何處至耳垂的距離，選擇適當尺寸之口咽呼吸道？",
+    "options": [
+      {
+        "id": 1,
+        "content": "鼻尖",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "眼角",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "人中",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "嘴角",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "chapter": "",
+    "questionNumber": "46",
+    "type": "single",
+    "content": "葛式昏迷指數最高分為幾分?最低分為幾分?",
+    "options": [
+      {
+        "id": 1,
+        "content": "0分:100分",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "3分:15分",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "90分:120分",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "50分:150分",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "chapter": "",
+    "questionNumber": "47",
+    "type": "single",
+    "content": "有關除病史詢問知敘述下列何者為非?",
+    "options": [
+      {
+        "id": 1,
+        "content": "感:有無其他感覺不舒服的地方",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "過:過去疾病史",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "藥:有無對藥物過敏",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "之前:不舒服或發生事故時在做什麼",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "chapter": "",
+    "questionNumber": "48",
+    "type": "single",
+    "content": "以下何者為生命徵象危急個案?",
+    "options": [
+      {
+        "id": 1,
+        "content": "呼吸10-20次",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "血壓120mmHg/80mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "GCS小於14分",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": " 體溫36度",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "chapter": "",
+    "questionNumber": "49",
+    "type": "single",
+    "content": "依救護技術員管理辦法規定，初級救護技術員初訓應完成多久訓練時數?",
+    "options": [
+      {
+        "id": 1,
+        "content": "8小時",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "40小時",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "56小時",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "256小時",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "chapter": "",
+    "questionNumber": "50",
+    "type": "single",
+    "content": "一個大量傷病患的現場，你擔任檢傷官，現在有一位四十歲男性患者，躺在地上無法行動，意識不清，呼吸每分鐘28下，微血管充填時間小於兩秒，依據START檢傷原則，請問他的檢傷等級是？",
+    "options": [
+      {
+        "id": 1,
+        "content": "黑色。",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "紅色。",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "綠色。",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "黃色。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "chapter": "",
+    "questionNumber": "51",
+    "type": "single",
+    "content": "在嬰兒呼吸道異物哽塞的排除中，予背擊5下之後仍哽塞，則下一步應該如何?",
+    "options": [
+      {
+        "id": 1,
+        "content": "在背擊五下",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "給予通氣五次",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "給予5次胸部按壓",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "將嬰兒翻轉倒立搖晃",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "chapter": "",
+    "questionNumber": "52",
+    "type": "single",
+    "content": "給予袋瓣罩甦醒球人工呼吸或心肺復甦術之傷病患應每幾分鐘重新評估呼吸或頸動脈搏？",
+    "options": [
+      {
+        "id": 1,
+        "content": "2分鐘。",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "3分鐘。",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "4分鐘。",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "5分鐘",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "chapter": "",
+    "questionNumber": "53",
+    "type": "single",
+    "content": "辛辛那提到院前腦中風指數之檢查項目，何者為非？",
+    "options": [
+      {
+        "id": 1,
+        "content": "嘴角上揚。",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "手臂平舉。",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "立定跳遠。",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "言語狀況。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "chapter": "",
+    "questionNumber": "54",
+    "type": "single",
+    "content": "依緊急醫療救護法施行細則第2條，下列何者非緊急傷病患?",
+    "options": [
+      {
+        "id": 1,
+        "content": " 從診所欲返家休息之患者",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "孕婦待產者",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "因災害或意外事故急待救護者",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": " 路倒傷病無法行動者",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "chapter": "",
+    "questionNumber": "55",
+    "type": "single",
+    "content": "何謂現場死亡定義?",
+    "options": [
+      {
+        "id": 1,
+        "content": "無意識、無呼吸並有屍腐、屍僵、屍體焦黑、無首、內臟外溢或軀幹部斷體",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "已蓋上白布",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "重型車輛輾過",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "chapter": "",
+    "questionNumber": "56",
+    "type": "single",
+    "content": "兒童實施雙人CPR時按壓與吹氣比?",
+    "options": [
+      {
+        "id": 1,
+        "content": " 30:2",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "3:1",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "15:2",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "背擊5下胸前按壓5下",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "chapter": "",
+    "questionNumber": "57",
+    "type": "single",
+    "content": "依照緊急醫療救護法第4條，下列何者非屬緊急醫療救護人員?",
+    "options": [
+      {
+        "id": 1,
+        "content": "醫師",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "護理人員",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "防疫計程車司機",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "救護技術員",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "chapter": "",
+    "questionNumber": "58",
+    "type": "single",
+    "content": "依據緊急醫療救護法18條規定救護車出勤至少應配置幾名救護人員?",
+    "options": [
+      {
+        "id": 1,
+        "content": "1名救護人員",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": " 2名救護人員",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": " 無須救護人員",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "無規定",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "chapter": "",
+    "questionNumber": "59",
+    "type": "single",
+    "content": "救護人員出勤專業展示為何?",
+    "options": [
+      {
+        "id": 1,
+        "content": "攜帶合格證書",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "自我介紹",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "攜帶適當救護器材至現場",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "chapter": "",
+    "questionNumber": "60",
+    "type": "single",
+    "content": "成人心肺復甦術之正確胸部按壓位置為?",
+    "options": [
+      {
+        "id": 1,
+        "content": "肚臍上一指幅",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "劍突上",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "兩乳頭連線和胸骨交叉",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "患者胸廓的1/2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "chapter": "",
+    "questionNumber": "61",
+    "type": "single",
+    "content": "燒燙傷之處裡方式何種正確?",
+    "options": [
+      {
+        "id": 1,
+        "content": "除去阻礙循環物品",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "呼吸窘迫應給予高濃度氧氣",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "燒燙傷處可使用生理食鹽水潤濕敷料覆蓋",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "chapter": "",
+    "questionNumber": "62",
+    "type": "single",
+    "content": "傷病患(男性，25歲)，雙下肢遭滾燙的熱水燙傷 ，造成雙下肢紅腫起水泡，請問其灼燙傷深度及面積約為體表面積多少?",
+    "options": [
+      {
+        "id": 1,
+        "content": "二度 18%。",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "二度36%。",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "三度18%。",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "一度5%。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "chapter": "",
+    "questionNumber": "63",
+    "type": "single",
+    "content": "到院前心臟停止患者之英文縮寫為何?",
+    "options": [
+      {
+        "id": 1,
+        "content": "IHCA",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "OHCA",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "DKA",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Dcard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "chapter": "",
+    "questionNumber": "64",
+    "type": "single",
+    "content": "瞳孔正常大小為?",
+    "options": [
+      {
+        "id": 1,
+        "content": "1-2mm",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "2-4mm",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "4-5 mm",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "5-6mm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "chapter": "",
+    "questionNumber": "65",
+    "type": "single",
+    "content": "如何量取傷患之頸圈型號？",
+    "options": [
+      {
+        "id": 1,
+        "content": "下顎至肩部的垂直距離。\u3000",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": " 下顎至鎖骨的垂直距離。",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "下顎至鎖骨的平行切線。  ",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "下顎至胸凹處的垂直距離。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "chapter": "",
+    "questionNumber": "66",
+    "type": "single",
+    "content": "請問，大於幾週之休克孕婦，須用雙手把子宮往左推或將孕婦擺成左側躺的姿勢(左傾15度~30度或墊高右腰10~15公分)，以解除子宮壓迫下腔靜脈導致靜脈血回流不足之現象？",
+    "options": [
+      {
+        "id": 1,
+        "content": "17週。  ",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": " 18週。   ",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "19週。  ",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "20週。",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "chapter": "",
+    "questionNumber": "67",
+    "type": "single",
+    "content": "相異於緊急救護旨在確保每位緊急傷病患之生命及健康，大量 傷病患事故處置的目標著重於？",
+    "options": [
+      {
+        "id": 1,
+        "content": "以有限的資源救治最少的傷病患。",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "以有限的資源救治最多的傷病患。",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "以無限的資源救治最多的傷病患。",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以有限的資源救治最少的傷病患。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "chapter": "",
+    "questionNumber": "68",
+    "type": "single",
+    "content": "危急個案應至少每幾分鐘測量一次，且要持續血氧濃度監測？",
+    "options": [
+      {
+        "id": 1,
+        "content": "3分鐘。   ",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "4分鐘。   ",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "5分鐘。  ",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "6分鐘。",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "chapter": "",
+    "questionNumber": "69",
+    "type": "single",
+    "content": "接獲勤務指揮中心派遣至車禍現場時，第一時間發現傷患躺於馬路中央，EMT 到達現場時第一件事應該做什麼?",
+    "options": [
+      {
+        "id": 1,
+        "content": "接觸傷患，不可移動傷患開始處置",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "將傷患拉到馬路邊再開始做處置",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "請民眾幫忙將傷患搬至救護車上",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "評估現場是否安全",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "chapter": "",
+    "questionNumber": "70",
+    "type": "single",
+    "content": "新生兒之基本心肺復甦術下壓深度約胸壁厚度的多少?",
+    "options": [
+      {
+        "id": 1,
+        "content": "1/2 ",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "1/3",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "1/4",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "1/5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "chapter": "",
+    "questionNumber": "71",
+    "type": "single",
+    "content": "依救護技術員管理辦法完成初級救護技術員訓練課程後，其EMT1證書有效期限為何?",
+    "options": [
+      {
+        "id": 1,
+        "content": "2年",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "3年",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "4年",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "無期限",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "chapter": "",
+    "questionNumber": "72",
+    "type": "single",
+    "content": "給予病患疼痛刺激首選位置為?",
+    "options": [
+      {
+        "id": 1,
+        "content": "壓人中",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "打耳光",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "按壓斜方肌",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "拉耳朵",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "chapter": "",
+    "questionNumber": "73",
+    "type": "single",
+    "content": "大量傷患檢傷分類傷票何種顏色優先救置?",
+    "options": [
+      {
+        "id": 1,
+        "content": "黑色-瀕死或心肺功能停止",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "紅色-重傷傷勢嚴重",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "黃色-中傷無立即生命危害",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "綠色-輕傷可行走無立即生命危害",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "chapter": "",
+    "questionNumber": "74",
+    "type": "single",
+    "content": "評估意識之順序?1.輕拍雙肩 2.呼喚 3.疼痛刺激",
+    "options": [
+      {
+        "id": 1,
+        "content": "1-2-3",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "2-1-3",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "3-1-2",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "直接疼痛刺激即可",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "chapter": "",
+    "questionNumber": "75",
+    "type": "single",
+    "content": "操作三合一氧氣瓶之口訣?",
+    "options": [
+      {
+        "id": 1,
+        "content": "病人藥史已前到",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "痛道歲月胎次病",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "按主訴之前吃過藥敏感方式",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "開看接開測戴",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "chapter": "",
+    "questionNumber": "76",
+    "type": "single",
+    "content": "未具救護技術員身分,不得使用救護技術員名稱,違者處新臺幣",
+    "options": [
+      {
+        "id": 1,
+        "content": "5千以上2萬5千以下罰鍰",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "3萬以上5萬5千以下",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "30萬",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "6萬以上7萬以下",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "chapter": "",
+    "questionNumber": "77",
+    "type": "single",
+    "content": "急性腦中風黃金急救時間為多久",
+    "options": [
+      {
+        "id": 1,
+        "content": "4小時",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "3.5小時",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "5小時",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "4.5小時",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "chapter": "",
+    "questionNumber": "78",
+    "type": "single",
+    "content": "辛辛那提中風指數三項不合格中風機率約為?",
+    "options": [
+      {
+        "id": 1,
+        "content": "72％",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "85％",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "56％",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "76％",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "chapter": "",
+    "questionNumber": "79",
+    "type": "single",
+    "content": "大量傷病患現場依START檢傷原則患者為 女性年約20歲、呼吸每十秒3次、橈動脈摸的到、CRT小於兩秒、意識不清，應判定為哪一種傷情",
+    "options": [
+      {
+        "id": 1,
+        "content": "黑",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "紅",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "黃",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "綠",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "chapter": "",
+    "questionNumber": "80",
+    "type": "single",
+    "content": "心臟停止後___至___分鐘，因缺氧造成腦損傷，超過10分鐘將會造成腦死。",
+    "options": [
+      {
+        "id": 1,
+        "content": "1至2分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "2至3分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "10至15分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "4至6分鐘",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "chapter": "",
+    "questionNumber": "81",
+    "type": "single",
+    "content": "關於創傷傷口的處置以下敘述何者為非?",
+    "options": [
+      {
+        "id": 1,
+        "content": "截肢傷將患處止血包紮，截肢以乾淨濕紗覆蓋裝於塑膠袋內，放置於含有冰塊、冷水之容器內",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "發現開放性氣胸應使用透氣敷料貼3邊留1邊處置，若患者感覺呼吸困難應移除",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "穿刺傷若物體還留在肢體上應給予固定後送",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆正確",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "chapter": "",
+    "questionNumber": "82",
+    "type": "single",
+    "content": "當病患\"疼痛刺激\"完全沒反應時須立即_______?  ",
+    "options": [
+      {
+        "id": 1,
+        "content": "給予人工呼吸",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "檢查脈搏與呼吸",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "給予心肺復甦",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "chapter": "",
+    "questionNumber": "83",
+    "type": "single",
+    "content": "欲用夾板固定肢體骨折，夾板長度必須至少涵蓋",
+    "options": [
+      {
+        "id": 1,
+        "content": "整個肢體",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "骨斷端的上下兩個關節",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "骨斷端及其上面的關節",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "骨斷端及其下面的關節",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "chapter": "",
+    "questionNumber": "84",
+    "type": "single",
+    "content": "非外傷流程評估周邊循環不包括下列哪一項",
+    "options": [
+      {
+        "id": 1,
+        "content": "目視病患之膚色是否蒼白、發紺或異常",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "觸摸末端肢體是否濕冷",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "檢查微血管充填時間是否＞2秒",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "快速查看全身是否有立即可見且持續之外出血情形",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "chapter": "",
+    "questionNumber": "85",
+    "type": "single",
+    "content": "大量傷病患事故，常見的檢傷分類法為",
+    "options": [
+      {
+        "id": 1,
+        "content": "START檢傷法",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "SMART檢傷法",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "SIMPLE檢傷法",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "smile檢傷法",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "chapter": "",
+    "questionNumber": "86",
+    "type": "single",
+    "content": "請問，大於幾週之休克孕婦，須用雙手把子宮往左推或將孕婦擺成左側躺的姿勢(左傾15度~30度或墊高右腰10~15公分)，以解除子宮壓迫下腔靜脈導致靜脈血回流不足之現象",
+    "options": [
+      {
+        "id": 1,
+        "content": "17週",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "18週",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "19週",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "20週",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "chapter": "",
+    "questionNumber": "87",
+    "type": "single",
+    "content": "搬運傷病患之目的為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "使傷病患脫離危險地區",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "避免傷病患受到不必要的傷害",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "易於迅速送醫",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆是",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "chapter": "",
+    "questionNumber": "88",
+    "type": "single",
+    "content": "非危急個案至少每幾分鐘測量一次，視傷病患需要或病情有變化時(如意識改變)，應重新評估傷病患",
+    "options": [
+      {
+        "id": 1,
+        "content": "10分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "15分鐘",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "20分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "25分鐘",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "chapter": "",
+    "questionNumber": "89",
+    "type": "single",
+    "content": "給予袋瓣罩甦醒球人工呼吸或心肺復甦術之傷病患應每幾分鐘重新評估呼吸或頸動脈搏",
+    "options": [
+      {
+        "id": 1,
+        "content": "2分鐘",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "3分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "4分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "5分鐘",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "chapter": "",
+    "questionNumber": "90",
+    "type": "single",
+    "content": "危急個案應至少每幾分鐘測量一次，且要持續血氧濃度監測？",
+    "options": [
+      {
+        "id": 1,
+        "content": "3分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "4分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "5分鐘",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "6分鐘",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "chapter": "",
+    "questionNumber": "91",
+    "type": "single",
+    "content": "下列何者非初級救護技術員可實施救護之項目?",
+    "options": [
+      {
+        "id": 1,
+        "content": "急產接生",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "協助使用NTG或支氣管擴張劑",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "血糖監測",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "使用心電圖監視器或十二導程心電圖",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "chapter": "",
+    "questionNumber": "92",
+    "type": "single",
+    "content": "下列關於NTG(硝化甘油舌下含片)敘述何者錯誤?",
+    "options": [
+      {
+        "id": 1,
+        "content": "24小時內沒有服用過犀利士，48小時內沒服用過威爾鋼",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "現場最多服用3顆，每顆需間隔5分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "脈搏需介於50-100之間",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "以上皆正確",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "chapter": "",
+    "questionNumber": "93",
+    "type": "single",
+    "content": "在一個大量傷病患現場，一名男性65歲患者走過來，臉部撕裂傷，呼吸10秒4次，一直喊好痛叫你趕快送醫，根據START檢傷法這位患者檢傷為什麼顏色?",
+    "options": [
+      {
+        "id": 1,
+        "content": "綠",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "黃",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "紅",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "黑",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "chapter": "",
+    "questionNumber": "94",
+    "type": "single",
+    "content": "下列何種呼吸道處置為EMT-1可執行之項目",
+    "options": [
+      {
+        "id": 1,
+        "content": "聲門上呼吸道(LMA)",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "鼻咽",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "氣管內管",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "氣管切開術",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "chapter": "",
+    "questionNumber": "95",
+    "type": "single",
+    "content": "大量傷病患現場依START檢傷原則，請將傷病患處理之優先依序排列(1)綠、(2)黃、(3)紅、(4)黑",
+    "options": [
+      {
+        "id": 1,
+        "content": "1、2、3、4",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "4、3、2、1",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "4、1、2、3",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "3、2、1、4",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "chapter": "",
+    "questionNumber": "96",
+    "type": "single",
+    "content": "EMT-1 證書效期為幾年？",
+    "options": [
+      {
+        "id": 1,
+        "content": "2 年",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": " 3 年",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": " 5 年 ",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "永久有效",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "chapter": "",
+    "questionNumber": "97",
+    "type": "single",
+    "content": "根據救護技術員管理辦法，EMT-1 展延需在效期內完成多少小時的繼續教育？",
+    "options": [
+      {
+        "id": 1,
+        "content": "16 小時",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": " 24 小時",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": " 32 小時",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": " 40 小時",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "chapter": "",
+    "questionNumber": "98",
+    "type": "single",
+    "content": "下列何者「不屬於」EMT-1 的法定執業項目？",
+    "options": [
+      {
+        "id": 1,
+        "content": "給予口服葡萄糖 ",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "給予氧氣",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "靜脈注射 ",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "急產接生",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "chapter": "",
+    "questionNumber": "99",
+    "type": "single",
+    "content": "人體最重要的呼吸中樞位於何處？",
+    "options": [
+      {
+        "id": 1,
+        "content": "大腦",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "小腦",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "延腦",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "脊髓",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "chapter": "",
+    "questionNumber": "100",
+    "type": "single",
+    "content": "一般成年人正常的呼吸次數為每分鐘多少次？",
+    "options": [
+      {
+        "id": 1,
+        "content": "8-12 次",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "12-20 次",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "20-30 次",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "30-40 次",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "chapter": "",
+    "questionNumber": "101",
+    "type": "single",
+    "content": "下列何者為「危急」個案的收縮壓判斷標準？",
+    "options": [
+      {
+        "id": 1,
+        "content": "低於 90 mmHg",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "低於 100 mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "高於 180 mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "低於 60 mmHg",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "chapter": "",
+    "questionNumber": "102",
+    "type": "single",
+    "content": "到達現場後，救護員的首要任務是？",
+    "options": [
+      {
+        "id": 1,
+        "content": "評估傷患意識",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "確保現場安全",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "立即給予氧氣",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "搬運傷患",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "chapter": "",
+    "questionNumber": "103",
+    "type": "single",
+    "content": "初級評估中的「A」代表什麼？",
+    "options": [
+      {
+        "id": 1,
+        "content": "呼吸",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "循環",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "意識",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "呼吸道",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "chapter": "",
+    "questionNumber": "104",
+    "type": "single",
+    "content": "使用 AVPU 量表評估意識，「P」代表什麼意思？",
+    "options": [
+      {
+        "id": 1,
+        "content": "對聲音有反應",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "對疼痛有反應",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "意識清醒",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "無反應",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "chapter": "",
+    "questionNumber": "105",
+    "type": "single",
+    "content": "危急個案應每隔幾分鐘重新評估一次生命徵象？",
+    "options": [
+      {
+        "id": 1,
+        "content": "5 分鐘",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "10 分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "15 分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "30 分鐘",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "chapter": "",
+    "questionNumber": "106",
+    "type": "single",
+    "content": "正常的微血管充填時間（CRT）應小於幾秒？",
+    "options": [
+      {
+        "id": 1,
+        "content": "1 秒",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "2 秒",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "3 秒",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "5 秒",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "chapter": "",
+    "questionNumber": "107",
+    "type": "single",
+    "content": "GCS 評分中，各項皆無完全無反應的分數是幾分？",
+    "options": [
+      {
+        "id": 1,
+        "content": "0 分",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "1 分",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "3 分",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "5 分",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "chapter": "",
+    "questionNumber": "108",
+    "type": "single",
+    "content": "口咽呼吸道（OPA）的測量方式為？",
+    "options": [
+      {
+        "id": 1,
+        "content": "鼻尖到耳垂",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "嘴角到耳垂",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "嘴角到咽喉",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "鼻尖到嘴角",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "chapter": "",
+    "questionNumber": "109",
+    "type": "single",
+    "content": "下列何者是使用鼻咽呼吸道（NPA）的禁忌症？",
+    "options": [
+      {
+        "id": 1,
+        "content": "嘔吐反射明顯",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "疑似顱底骨折",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "意識不清",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "呼吸過快",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "chapter": "",
+    "questionNumber": "110",
+    "type": "single",
+    "content": "使用非再呼吸面罩（NRM）時，氧氣流量應調整為多少 L/min？",
+    "options": [
+      {
+        "id": 1,
+        "content": "1-6",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "6-10",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "10-15",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "25 以上",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "chapter": "",
+    "questionNumber": "111",
+    "type": "single",
+    "content": "成人 CPR 的按壓深度應為多少？",
+    "options": [
+      {
+        "id": 1,
+        "content": "2-3 公分",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "至少 5 - 6 公分",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "7 公分以上",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "只要有壓就好",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "chapter": "",
+    "questionNumber": "112",
+    "type": "single",
+    "content": "成人單人 CPR 的按壓與人工呼吸比例為？",
+    "options": [
+      {
+        "id": 1,
+        "content": "15:2",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "30:2",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "5:1",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "30:1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "chapter": "",
+    "questionNumber": "113",
+    "type": "single",
+    "content": "使用 AED 時，貼片黏貼後下一步應做什麼？",
+    "options": [
+      {
+        "id": 1,
+        "content": "立即電擊",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "離開病人，讓機器分析心律",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "繼續按壓",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "檢查脈搏",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "chapter": "",
+    "questionNumber": "114",
+    "type": "single",
+    "content": "成人抽吸一次的時間不應超過？",
+    "options": [
+      {
+        "id": 1,
+        "content": "5 秒",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "10 秒",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "15 秒",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "30 秒",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "chapter": "",
+    "questionNumber": "115",
+    "type": "single",
+    "content": "控制肢體大出血的首選方法是？",
+    "options": [
+      {
+        "id": 1,
+        "content": "止血點壓迫法",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "直接壓迫止血法",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "抬高患部",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "立即使用止血帶",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "chapter": "",
+    "questionNumber": "116",
+    "type": "single",
+    "content": "抽吸式護木的主要功能是？",
+    "options": [
+      {
+        "id": 1,
+        "content": "傷口止血",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "骨折固定",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "止痛",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "增加血流",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "chapter": "",
+    "questionNumber": "117",
+    "type": "single",
+    "content": "搬運脊椎受傷疑慮的患者，應使用何種工具？",
+    "options": [
+      {
+        "id": 1,
+        "content": "輪椅",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "帆布擔架",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "長背板",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "徒手背負",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "chapter": "",
+    "questionNumber": "118",
+    "type": "single",
+    "content": "嚴重異物哽塞且意識清醒的成人，應採取何種處置？",
+    "options": [
+      {
+        "id": 1,
+        "content": "拍背法+哈姆立克法",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "不理他",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "直接伸手去掏",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "實施 CPR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "chapter": "",
+    "questionNumber": "119",
+    "type": "single",
+    "content": "止血帶上標記的「T」代表什麼？",
+    "options": [
+      {
+        "id": 1,
+        "content": "傷患姓名",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "止血帶緊度",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "施打時間",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "止血位置",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "chapter": "",
+    "questionNumber": "120",
+    "type": "single",
+    "content": "辛辛那提中風評估量表（CPSS）不包含下列哪項？",
+    "options": [
+      {
+        "id": 1,
+        "content": "手臂平舉",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "面部垂落",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "言語異常",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "瞳孔大小",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "chapter": "",
+    "questionNumber": "121",
+    "type": "single",
+    "content": "低血糖病患在意識清醒且可配合時，可給予？",
+    "options": [
+      {
+        "id": 1,
+        "content": "溫開水",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "口服葡萄糖",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "饅頭",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "降血糖藥",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "chapter": "",
+    "questionNumber": "122",
+    "type": "single",
+    "content": "處理燒燙傷的首要步驟是？",
+    "options": [
+      {
+        "id": 1,
+        "content": "塗抹藥膏",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "刺破水泡",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "大量清水沖洗",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "覆蓋冰塊",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "chapter": "",
+    "questionNumber": "123",
+    "type": "single",
+    "content": "熱衰竭與熱中暑最大的不同點在於？",
+    "options": [
+      {
+        "id": 1,
+        "content": "熱中暑通常意識改變且體溫極高",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "熱衰竭會流汗",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "熱中暑血壓較高",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "兩者完全一樣",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "chapter": "",
+    "questionNumber": "124",
+    "type": "single",
+    "content": "急產接生時，胎兒頭部產出後應先檢查什麼？",
+    "options": [
+      {
+        "id": 1,
+        "content": "胎兒性別",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "臍帶是否繞頸",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "胎盤是否產出",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "測量體重",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "chapter": "",
+    "questionNumber": "125",
+    "type": "single",
+    "content": "大量傷病患檢傷分類（START）中，呼吸每分鐘超過幾次應判定「紅色」重傷？",
+    "options": [
+      {
+        "id": 1,
+        "content": "20 次",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "25 次",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "30 次",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "40 次",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "chapter": "",
+    "questionNumber": "126",
+    "type": "single",
+    "content": "在 START 檢傷中，意識不清、無法執行簡單指令的傷病患應歸類為？",
+    "options": [
+      {
+        "id": 1,
+        "content": "綠色",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "黃色",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "紅色",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "黑色",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "chapter": "",
+    "questionNumber": "127",
+    "type": "single",
+    "content": "心肌梗塞（AMI）病患最常見的症狀是？",
+    "options": [
+      {
+        "id": 1,
+        "content": "噴射狀嘔吐",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "胸口壓迫感或悶痛",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "腹痛",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "視力模糊",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "chapter": "",
+    "questionNumber": "128",
+    "type": "single",
+    "content": "懷孕後期的孕婦若需長背板固定，應如何調整以避免壓迫下腔靜脈？",
+    "options": [
+      {
+        "id": 1,
+        "content": "向右傾斜 15-30 度",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "向左傾斜 15-30 度",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "採頭低腳高位",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "採俯臥位",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "chapter": "",
+    "questionNumber": "129",
+    "type": "single",
+    "content": "下列何者是「到院前心肺功能停止」（OHCA）最關鍵的存活環節？",
+    "options": [
+      {
+        "id": 1,
+        "content": "儘早實施高品質 CPR 與電擊",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "快速送往醫學中心",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "建立靜脈通道",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "給予強心劑",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "chapter": "",
+    "questionNumber": "130",
+    "type": "single",
+    "content": "正常成年人的收縮壓參考值範圍為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "60-90 mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "90-140 mmHg",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "140-180 mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "180-220 mmHg",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "chapter": "",
+    "questionNumber": "131",
+    "type": "single",
+    "content": "評估病患呼吸時，除了次數外，還需觀察什麼？",
+    "options": [
+      {
+        "id": 1,
+        "content": "深度與節律",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "血液顏色",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "體溫高低",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "脈搏強弱",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "chapter": "",
+    "questionNumber": "132",
+    "type": "single",
+    "content": "執行成人 CPR 時，按壓回彈的要求為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "需部分回彈",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "需完全回彈，不可倚靠胸部",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "回不回彈不重要",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "壓下去維持1秒再回彈",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "chapter": "",
+    "questionNumber": "133",
+    "type": "single",
+    "content": "若傷口處有嵌入異物（如玻璃碎片），應如何處理？",
+    "options": [
+      {
+        "id": 1,
+        "content": "立即拔除",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "固定異物不予拔除並包紮",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "用水沖洗異物內部",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "強力壓迫異物處",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "chapter": "",
+    "questionNumber": "134",
+    "type": "single",
+    "content": "疑似頸椎受傷的傷患，開啟呼吸道應使用何種方法？",
+    "options": [
+      {
+        "id": 1,
+        "content": "壓額頷法",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "下顎推舉法",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "側頭法",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "墊高頭部法",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "chapter": "",
+    "questionNumber": "135",
+    "type": "single",
+    "content": "測量血氧濃度（SpO2）時，若數值低於多少視為「危急個案」？",
+    "options": [
+      {
+        "id": 1,
+        "content": "0.98",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "0.94",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "0.9",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "0.85",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "chapter": "",
+    "questionNumber": "136",
+    "type": "single",
+    "content": "處理燒燙傷時，若衣服與皮膚黏住，應如何處理？",
+    "options": [
+      {
+        "id": 1,
+        "content": "強力撕開",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "剪掉黏住處周圍衣服，保留黏住部分",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "連同衣服一起冰敷",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "塗抹沙拉油",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "chapter": "",
+    "questionNumber": "137",
+    "type": "single",
+    "content": "蛇類咬傷的現場處置，下列何者「正確」？",
+    "options": [
+      {
+        "id": 1,
+        "content": "患肢保持低於心臟",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "用嘴吸出毒液",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "冰敷傷口",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "跑步求救",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "chapter": "",
+    "questionNumber": "138",
+    "type": "single",
+    "content": "癲癇發作時，救護員的首要處置為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "強行塞入壓舌板",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "限制肢體抽動",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "保持呼吸道通暢、預防受傷",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "給予口服藥物",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "chapter": "",
+    "questionNumber": "139",
+    "type": "single",
+    "content": "大量傷病患檢傷分類（START）流程中，第一步是篩選出哪類傷病患？",
+    "options": [
+      {
+        "id": 1,
+        "content": "紅色（立即）",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "黃色（延遲）",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "綠色（輕傷/自行走路者）",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "黑色（死亡）",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "chapter": "",
+    "questionNumber": "140",
+    "type": "single",
+    "content": "處理斷指（斷肢）時，應如何保存？",
+    "options": [
+      {
+        "id": 1,
+        "content": "直接泡入冰水中",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "用生理食鹽水濕紗布包裹放入塑膠袋，再隔冰冷藏",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "放入酒精消毒",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "放在傷患口袋",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "chapter": "",
+    "questionNumber": "141",
+    "type": "single",
+    "content": "長背板固定時，頭部固定器（頭靠）應在何時安裝？",
+    "options": [
+      {
+        "id": 1,
+        "content": "第一時間",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "軀幹帶固定完成後",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "病人上擔架後",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "隨時都可以",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "chapter": "",
+    "questionNumber": "142",
+    "type": "single",
+    "content": "常見的休克徵候不包含下列何者？",
+    "options": [
+      {
+        "id": 1,
+        "content": "脈搏快而虛弱",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "皮膚蒼白濕冷",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "意識變得焦慮或混亂",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "血壓升高",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "chapter": "",
+    "questionNumber": "143",
+    "type": "single",
+    "content": "救護現場若懷疑有危險物品（毒氣等），救護車應停在？",
+    "options": [
+      {
+        "id": 1,
+        "content": "下風處",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "上風處",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "事故車輛正旁邊",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "隧道內部",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "chapter": "",
+    "questionNumber": "144",
+    "type": "single",
+    "content": "成人異物哽塞若病患已失去意識倒下，下一步該做什麼？",
+    "options": [
+      {
+        "id": 1,
+        "content": "哈姆立克法",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "直接看有無異物並開始 CPR",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "拍背",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "等待醫生",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "chapter": "",
+    "questionNumber": "145",
+    "type": "single",
+    "content": "正常人體中，哪種器官對缺氧最敏感？",
+    "options": [
+      {
+        "id": 1,
+        "content": "肝臟",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "大腦",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "皮膚",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "肌肉",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "chapter": "",
+    "questionNumber": "146",
+    "type": "single",
+    "content": "救護員在執行職務時，穿著反光背心或制服的主要目的是？",
+    "options": [
+      {
+        "id": 1,
+        "content": "為了美觀",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "身份識別與安全防護",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "增加體溫",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "存放私人物品",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "chapter": "",
+    "questionNumber": "147",
+    "type": "single",
+    "content": "依據《救護技術員管理辦法》，EMT-1 證照逾期未辦理展延之法律後果為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "自動失效，需重新參加初訓",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "繳交罰款即可延期",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "只要有補課就能繼續執業",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "降級為救護志工",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "chapter": "",
+    "questionNumber": "148",
+    "type": "single",
+    "content": "判斷傷患是否發生「張力性氣胸」時，下列何者為其特有的徵象？",
+    "options": [
+      {
+        "id": 1,
+        "content": "傷口有泡泡聲",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "頸靜脈怒張且氣管偏向健側",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "脈搏緩慢",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "呼吸音正常",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "chapter": "",
+    "questionNumber": "149",
+    "type": "single",
+    "content": "若懷疑傷患有「骨盆骨折」，在急救現場最應避免的操作為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "量測血壓",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "重複擠壓測試骨盆穩定度",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "覆蓋毛毯",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "供給氧氣",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "chapter": "",
+    "questionNumber": "150",
+    "type": "single",
+    "content": "關於成人氣管缺氧耐受度，腦細胞在缺氧幾分鐘後會開始產生不可逆的損傷？",
+    "options": [
+      {
+        "id": 1,
+        "content": "1-2 分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "4-6 分鐘",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "10-15 分鐘",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "20-30 分鐘",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "chapter": "",
+    "questionNumber": "151",
+    "type": "single",
+    "content": "關於止血帶(CAT)的使用，若施打第一條後仍無法有效止血，應如何處理？",
+    "options": [
+      {
+        "id": 1,
+        "content": "解開重綁",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "在第一條近端再打第二條",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "改用直接壓迫法",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "放棄止血",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "chapter": "",
+    "questionNumber": "152",
+    "type": "single",
+    "content": "評估小兒三角(PAT)的三個要素不包括下列何者？",
+    "options": [
+      {
+        "id": 1,
+        "content": "外觀",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "呼吸功",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "皮膚循環",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "體溫",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "chapter": "",
+    "questionNumber": "153",
+    "type": "single",
+    "content": "心肺復甦術中，所謂的「高品質 CPR」不包括下列哪一項？",
+    "options": [
+      {
+        "id": 1,
+        "content": "按壓速率 100-120次/分",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "確保胸部完全回彈",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "儘量減少中斷",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "每次吹氣量越多越好",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "chapter": "",
+    "questionNumber": "154",
+    "type": "single",
+    "content": "一氧化碳中毒病患，血液中的一氧化碳與血紅素結合力是氧氣的幾倍？",
+    "options": [
+      {
+        "id": 1,
+        "content": "10 倍",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "50 倍",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "200-250 倍",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "1000 倍",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "chapter": "",
+    "questionNumber": "155",
+    "type": "single",
+    "content": "在 START 檢傷分類中，病患呼吸 24 次/分，CRT 1.5 秒，但無法遵從指令，傷情應該判斷為？",
+    "options": [
+      {
+        "id": 1,
+        "content": "綠色",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "黃色",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "紅色",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "黑色",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "chapter": "",
+    "questionNumber": "156",
+    "type": "single",
+    "content": "使用口咽呼吸道(OPA)時，若引發傷患嘔吐反應，應如何處置？",
+    "options": [
+      {
+        "id": 1,
+        "content": "繼續推入",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "立即移除",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "改用大一號的 OPA",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "翻身側面繼續留置",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "chapter": "",
+    "questionNumber": "157",
+    "type": "single",
+    "content": "在進行「身體理學檢查」時，頭部傷口流出清澈液體，可能是？",
+    "options": [
+      {
+        "id": 1,
+        "content": "唾液",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "腦脊髓液",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "汗水",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "淋巴液",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "chapter": "",
+    "questionNumber": "158",
+    "type": "single",
+    "content": "評估燒燙傷面積時，成年人「單側整隻手臂」佔體表面積百分之幾？",
+    "options": [
+      {
+        "id": 1,
+        "content": "0.045",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "0.09",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "0.18",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "0.01",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "chapter": "",
+    "questionNumber": "159",
+    "type": "single",
+    "content": "處理眼部化學傷，沖洗時應由何處流向何處以保護健側眼？",
+    "options": [
+      {
+        "id": 1,
+        "content": "鼻側流向耳側",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "耳側流向鼻側",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "由下往上",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "隨便沖洗",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "chapter": "",
+    "questionNumber": "160",
+    "type": "single",
+    "content": "下列何者不屬於「成人嚴重創傷」的機轉判斷標準？",
+    "options": [
+      {
+        "id": 1,
+        "content": "從 6 公尺以上高處墜落",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "乘客由車內拋出",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "同車乘客死亡",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "騎單車摔倒擦傷",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "chapter": "",
+    "questionNumber": "161",
+    "type": "single",
+    "content": "在救護現場若發現病患「屍體已腐爛」，EMT-1 應如何處置？",
+    "options": [
+      {
+        "id": 1,
+        "content": "繼續實施 CPR",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "實施 AED 電擊",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "保護現場並通報警察",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "直接送往殯儀館",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "chapter": "",
+    "questionNumber": "162",
+    "type": "single",
+    "content": "關於「自動體外心臟電擊去顫器(AED)」的原理，它是將何種心律轉變為正常？",
+    "options": [
+      {
+        "id": 1,
+        "content": "心室靜止(Asystole)",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "心跳過緩",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "混亂的心室電活動",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "房室傳導阻滯",
+        "isCorrect": false
+      }
+    ]
+  }
+]
