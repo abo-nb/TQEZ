@@ -1,0 +1,1858 @@
+[
+  {
+    "id": 1,
+    "chapter": "20260907 - Bluebeard",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Why did Dora feel uneasy about Baron Bluebeard?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He was old",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "He was strange and unsettling",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "He was rich",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He was a foreigner",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chapter": "20260907 - Bluebeard",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Why did Baron Bluebeard give Dora his key?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He wanted her to water his house plants",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "He wanted her to go in the room with the red door",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "He wanted her to clean his bedroom",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He wanted her to host a party",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chapter": "20260907 - Bluebeard",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "What did Dora find in the room with the red door?",
+    "options": [
+      {
+        "id": 1,
+        "content": "A red dwarf",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "A witch",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "A dead body",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "Treasure",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chapter": "20260907 - Bluebeard",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "What happened to the Baron's previous wives?",
+    "options": [
+      {
+        "id": 1,
+        "content": "They divorced and moved away",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "They died of natural causes",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "They died of unnatural causes",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "They ran away",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chapter": "20260914 - Don Quixote",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Why did Don Quixote decide to go on an adventure?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He read too many books about chivalry",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "He watched too many movies about knights",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "He was told to go on an adventure by God",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He wanted to get away from his wife",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chapter": "20260914 - Don Quixote",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Who was Don Quixote's traveling companion?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Dulcinea",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Aldonza Lorenzo",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "A bodyguard",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Sancho Panza",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chapter": "20260914 - Don Quixote",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "Why did Don Quixote attack the windmills?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He thought they were wizards",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "He thought they were giants",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "They were too noisy",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "They were built illegally on his property",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chapter": "20260914 - Don Quixote",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "Who is Dulcinea?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Aldonza Lorenzo",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "Sancho Panza",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "The lady in the carriage",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "A monk",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "chapter": "20260921 - Goat-Face",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Who did Masaniello meet in the cave?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Renzola",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "His wife",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "The king",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "The lizard queen",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "chapter": "20260921 - Goat-Face",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Which word best describes Renzola's personality?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Friendly",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Obedient",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Conceited",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "Both A and B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "chapter": "20260921 - Goat-Face",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "Why did Renzola look like a goat?",
+    "options": [
+      {
+        "id": 1,
+        "content": "She was cursed by the lizard queen",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "She ate a poisoned apple",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Her parents were goats",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "She hit puberty",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "chapter": "20260921 - Goat-Face",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "What is the lesson of this story?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Always be grateful to your parents",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "Never look a gift horse in the mouth",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Don't judge a book by its cover",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Lizards are terrible parents",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "chapter": "20260929 - Hamlet",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "How did Hamlet's father die?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He was sick",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "He had an accident",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "He was murdered",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "He committed suicide",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "chapter": "20260929 - Hamlet",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Why did Ophelia commit suicide?",
+    "options": [
+      {
+        "id": 1,
+        "content": "She was heartbroken",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "She felt guilty for Polonius's death",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "She was trying to fake her death but made a mistake",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "She was cursed by a witch",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "chapter": "20260929 - Hamlet",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "Why did Hamlet's play upset Claudius and Gertrude?",
+    "options": [
+      {
+        "id": 1,
+        "content": "It was terrible",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "The king character was poorly written",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "It was too long",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "It implied that they were murderers",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "chapter": "20260929 - Hamlet",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "How did Hamlet's mother die?",
+    "options": [
+      {
+        "id": 1,
+        "content": "She drank from a poisoned cup",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "She was cut with a poisoned blade",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "She was stabbed through the heart",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "She fell off a cliff",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "chapter": "20261005 - Jack and the Beanstalk",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "What did Jack get in exchange for his cow?",
+    "options": [
+      {
+        "id": 1,
+        "content": "A golden box filled with beans",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "A silver box filled with beans",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "A bronze box filled with beans",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "A copper box filled with beans",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "chapter": "20261005 - Jack and the Beanstalk",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Who did Jack meet in the giant's castle?",
+    "options": [
+      {
+        "id": 1,
+        "content": "His mother",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "His father",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Puss in Boots",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "A singing harp",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "chapter": "20261005 - Jack and the Beanstalk",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "How did Jack escape from the giant?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He rode the golden goose",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "He used a parachute",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "He climbed down the beanstalk",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He made a wish",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "chapter": "20261005 - Jack and the Beanstalk",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "Why was Jack's country so poor?",
+    "options": [
+      {
+        "id": 1,
+        "content": "The giant stole from everyone",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "It was devastated by war",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "It suffered a terrible flood",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Everyone had lost money by investing in crypto",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chapter": "20261012 - The Voyage to Laputa",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "How did Gulliver get into the city of Laputa?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He flew in an airplane",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "He took a train",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "He drove a car",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He climbed a rope ladder",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "chapter": "20261012 - The Voyage to Laputa",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Who built Laputa?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Gulliver",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "The Lilliputians",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "William Robinson",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Philosophers and Scientists",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "chapter": "20261012 - The Voyage to Laputa",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "Why was the king embarrassed by the university?",
+    "options": [
+      {
+        "id": 1,
+        "content": "The scientists were all disgusting",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "The scientists were all failures",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "The professor didn't publish enough books",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Both A and B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "chapter": "20261012 - The Voyage to Laputa",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "In the end, what was Gulliver's opinion of the city of Laputa?",
+    "options": [
+      {
+        "id": 1,
+        "content": "It was not a serious place",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "It was a wonderful place",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "It had the greatest geniuses he had ever met",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He wanted to stay forever",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "chapter": "20261019 - Medea",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Why was Medea angry at Jason?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He didn't make his alimony payment",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "He forgot it was their anniversary",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "He murdered their children",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He left her for another woman",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "chapter": "20261019 - Medea",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "How did Medea kill the princess?",
+    "options": [
+      {
+        "id": 1,
+        "content": "With a poisoned apple",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "With a poisoned banana",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "With a poisoned dress",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "With a knife",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "chapter": "20261019 - Medea",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "What did King Creon offer Jason?",
+    "options": [
+      {
+        "id": 1,
+        "content": "An alliance sealed by marriage",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "A new golden chariot",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "A sack of money",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "A new dress",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "chapter": "20261019 - Medea",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "How did Medea escape?",
+    "options": [
+      {
+        "id": 1,
+        "content": "She ran",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "She swam",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "She flew",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "She rode a horse",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "chapter": "20261027 - Nikita the Tanner",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Who attacked the kingdom of Kiev?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Nikita",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "The king",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "The princess",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "The dragon",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "chapter": "20261027 - Nikita the Tanner",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Who convinced Nikita to fight the dragon?",
+    "options": [
+      {
+        "id": 1,
+        "content": "The king",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "The princess",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "The children of Kiev",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "The dog",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "chapter": "20261027 - Nikita the Tanner",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "What weapon did the king give to Nikita?",
+    "options": [
+      {
+        "id": 1,
+        "content": "A sword",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "A spear",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "A tanner's knife",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "A javelin",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "chapter": "20261027 - Nikita the Tanner",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "What gift did Nikita get for killing the dragon?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He got to marry the princess",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "He got a ton of gold",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "He was given the keys to the city",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He accepted no gifts",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "chapter": "20261109 - Puss in Boots",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "What did the miller give to his youngest son?",
+    "options": [
+      {
+        "id": 1,
+        "content": "The mill",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "The donkey and cart",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Money",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "A cat",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "chapter": "20261109 - Puss in Boots",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Who was living in the castle when Puss and Boots knocked on the door?",
+    "options": [
+      {
+        "id": 1,
+        "content": "The Duke",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "The king",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "An ogre",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "The cat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "chapter": "20261109 - Puss in Boots",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "Why did the villagers agree to clean up the castle?",
+    "options": [
+      {
+        "id": 1,
+        "content": "They were hungry",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "They were poor",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "They were grateful",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "They were forced to do it",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "chapter": "20261109 - Puss in Boots",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "What word best describes puss in boots?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Intrepid",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "Cowardly",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Fearful",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Agreeable",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "chapter": "20261116 - The Birds",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Who were Pisthetaerus and Euelpides looking for?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Zeus",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Hercules",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Poseidon",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Epops",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "chapter": "20261116 - The Birds",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "What was Pisthetaerus' plan?",
+    "options": [
+      {
+        "id": 1,
+        "content": "To sell pancakes",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "To make a lovely stew",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "To build a city in the clouds",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "To kill Zeus",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "chapter": "20261116 - The Birds",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "Why were Pisthetaerus and Euelpides running away from Athens?",
+    "options": [
+      {
+        "id": 1,
+        "content": "They lost their jobs",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "They owed a lot of money",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "They were kicked out",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "The city was destroyed by war",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "chapter": "20261116 - The Birds",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "What did Pisthetaerus want from Zeus?",
+    "options": [
+      {
+        "id": 1,
+        "content": "A cheese pizza",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "His scepter",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "His girlfriend",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Both B and C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "chapter": "20261123 - The Fiend",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Who did Marusia meet at the party?",
+    "options": [
+      {
+        "id": 1,
+        "content": "An old man",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "A young man",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "A poor man",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Her mother",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "chapter": "20261123 - The Fiend",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "What was the gentleman doing in the church?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Eating someone",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "Praying",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Donating money",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Donating blood",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "chapter": "20261123 - The Fiend",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "What did Marusia get from her grandmother?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Money",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "A silver bullet",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Some magic water",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "Vampire repellent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "chapter": "20261123 - The Fiend",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "Who was the fiend?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Marusia's mother",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Marusia's grandmother",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Marusia",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "The handsome gentleman",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "chapter": "20261130 - The Story of Madonna Francesca",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Why did Francesca want to get rid of Alessandro and Renuio?",
+    "options": [
+      {
+        "id": 1,
+        "content": "They were very friendly and nice",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "They were very mean and cruel",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "They were very silly and annoying",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "They were trying to kidnap her",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "chapter": "20261130 - The Story of Madonna Francesca",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Which word best describes Renuio's personality?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Humble",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Modest",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Vain",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "Responsible",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "chapter": "20261130 - The Story of Madonna Francesca",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "What was Alessandro's task?",
+    "options": [
+      {
+        "id": 1,
+        "content": "To bring back Mr. Scannaddio's corpse",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "To pretend to be Mr. Scannaddio's corpse",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "To burn Mr. Scannaddio's corpse",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "To kill Mr. Scannaddio",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "chapter": "20261130 - The Story of Madonna Francesca",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "Why did Renuio run away?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He was worried about going to jail",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "He was worried about what Francesca would think of him",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "He was afraid of the ghost of Mr. Scannaddio",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Alessandro tried to kill him",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "chapter": "20261207 - Samson",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "What instructions did the angel give to Samson's mother?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Don't drink wine or eat bad food",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "Don't get your hair cut until you give birth",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Don't smoke",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Leave your family and go to Vegas",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "chapter": "20261207 - Samson",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "How did Samson's parents feel about his choice of wife?",
+    "options": [
+      {
+        "id": 1,
+        "content": "They thought she was a great choice",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "They thought she was a bad choice",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "They had no strong feelings about her",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "They didn't know Samson got married",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "chapter": "20261207 - Samson",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "What was the source of Samson's power?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Gamma radiation",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Genetic mutation",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "His vow to God",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "He was bitten by a radioactive spider",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "chapter": "20261207 - Samson",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "What was the answer to Samson's riddle?",
+    "options": [
+      {
+        "id": 1,
+        "content": "A restaurant",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "A beehive",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "A lion",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "A beehive inside of a lion",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "chapter": "20261214 - Sleepy Hollow",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Who was the scariest ghost in Sleepy Hollow?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Ichabod Crane",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Brom Bones",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Mr. Van Tassel",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "The Headless Horseman",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "chapter": "20261214 - Sleepy Hollow",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Why was Ichabod so eager to marry Katrina?",
+    "options": [
+      {
+        "id": 1,
+        "content": "She was beautiful",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "She was charming",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "She was rich",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "She was his cousin",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "chapter": "20261214 - Sleepy Hollow",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "What was Ichabod's relationship with Brom?",
+    "options": [
+      {
+        "id": 1,
+        "content": "They were best friends",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "They were romantic rivals",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "They were roommates",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Brom was his student",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "chapter": "20261214 - Sleepy Hollow",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "What probably happened to Ichabod at the end of the story?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He was killed by the Headless Horseman",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "He was killed by Brom",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "He was turned into a pumpkin",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He ran away out of fear",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "chapter": "20261221 - The Mouse, the Bird, and the Sausage",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "What was the bird's job?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Cooking",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Cleaning",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Collecting firewood",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "Fetching water",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "chapter": "20261221 - The Mouse, the Bird, and the Sausage",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Why didn't the bird like his job?",
+    "options": [
+      {
+        "id": 1,
+        "content": "It was too easy",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "It was too difficult",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "It was too boring",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "The pay was too low",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "chapter": "20261221 - The Mouse, the Bird, and the Sausage",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "What idea did the bird propose?",
+    "options": [
+      {
+        "id": 1,
+        "content": "That they switch jobs",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "That they all get new jobs",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "That they start their own business",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "That they kill the weasel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "chapter": "20261221 - The Mouse, the Bird, and the Sausage",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "What is the lesson of the story?",
+    "options": [
+      {
+        "id": 1,
+        "content": "Don't judge a book by its cover",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "The only thing we have to fear is fear itself",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Haste makes waste",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Don't be jealous of other people's lives",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "chapter": "20261228 - William Tell",
+    "questionNumber": "1",
+    "type": "single",
+    "content": "Why did the emperor appoint Gessler as governor?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He wanted someone kind to help the people",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "He wanted someone mean to oppress the people",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "Gessler was his brother",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Gessler paid a bribe",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "chapter": "20261228 - William Tell",
+    "questionNumber": "2",
+    "type": "single",
+    "content": "Why was William Tell arrested?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He was driving too fast",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "He didn't salute the governor's cap",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "He was stealing apples",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He killed the governor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "chapter": "20261228 - William Tell",
+    "questionNumber": "3",
+    "type": "single",
+    "content": "Why did William Tell shoot an apple on his son's head?",
+    "options": [
+      {
+        "id": 1,
+        "content": "He was forced to do it by Gessler",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "He made a friendly bet with Gessler",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Ulrich advised him to do it",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "He wanted to show off his skills",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "chapter": "20261228 - William Tell",
+    "questionNumber": "4",
+    "type": "single",
+    "content": "Who killed Gessler?",
+    "options": [
+      {
+        "id": 1,
+        "content": "William Tell",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "Ulrich",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Walter",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "The emperor",
+        "isCorrect": false
+      }
+    ]
+  }
+]
