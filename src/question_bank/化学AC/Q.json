@@ -1,0 +1,1803 @@
+[
+  {
+    "id": 1,
+    "chapter": "第一單元：化學計量與反應式",
+    "questionNumber": "16",
+    "type": "單選題",
+    "content": "下列有關 2H2(g) + O2(g) → 2H2O(g) 反應式的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": 1,
+        "content": "同溫同壓下，2升的氫和1升的氧作用生成2升的水蒸氣",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "2莫耳的氫氣與1莫耳的氧氣反應，產生2莫耳的水蒸氣",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "2分子的氫氣與1分子的氧氣反應，產生2分子的水蒸氣",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "2克的氫與1克的氧作用產生3克的水蒸氣",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chapter": "第一單元：化學計量與反應式",
+    "questionNumber": "17",
+    "type": "單選題",
+    "content": "欲使丙烷(C3H8) 5.0L 完全燃燒成 CO2 及 H2O，需要同溫、同壓下的氧氣若干升？",
+    "options": [
+      {
+        "id": 1,
+        "content": "5",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "155",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "25",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "75",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chapter": "第一單元：化學計量與反應式",
+    "questionNumber": "18",
+    "type": "單選題",
+    "content": "化合物甲、乙、丙的分子量分別為 10、18、24，甲和乙反應生成丙，則其長度的均衡化學反應式為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "甲 + 乙 → 丙",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "甲 + 2乙 → 2丙",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "2甲 + 乙 → 2丙",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "3甲 + 乙 → 2丙",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chapter": "第一單元：化學計量與反應式",
+    "questionNumber": "19",
+    "type": "單選題",
+    "content": "水電解的反應式：2H2O(l) → 2H2(g) + O2(g)，如要收集 6 莫耳的氣體，則有多少克的水被電解？（原題答案有誤，已更正）",
+    "options": [
+      {
+        "id": 1,
+        "content": "72",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "54",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "36",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "27",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chapter": "第一單元：化學計量與反應式",
+    "questionNumber": "20",
+    "type": "單選題",
+    "content": "某化合物經元素分析後，各元素所占的重要百分比如下：氧元素 50.0%、碳元素 37.5%、氫元素 12.5%，則此化合物的實驗式為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "CH2O",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "C3H4O",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "CH2O2",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "CH4O",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chapter": "第一單元：化學計量與反應式",
+    "questionNumber": "21",
+    "type": "單選題",
+    "content": "下列何種物質之化學式是分子式？",
+    "options": [
+      {
+        "id": 1,
+        "content": "KCl",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "SiO2",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Cu",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "S8",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chapter": "第一單元：化學計量與反應式",
+    "questionNumber": "22",
+    "type": "單選題",
+    "content": "下列各化學式中，何者不是以分子式表示？",
+    "options": [
+      {
+        "id": 1,
+        "content": "氬(Ar)",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "碳六十(C60)",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "氯化鈉(NaCl)",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "黃磷(P4)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chapter": "第一單元：化學計量與反應式",
+    "questionNumber": "23",
+    "type": "單選題",
+    "content": "下列有關化學式的各項敘述，何者錯誤？",
+    "options": [
+      {
+        "id": 1,
+        "content": "CO2是分子式",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "C2H5OH和CH3OCH3的質量百分比相同",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Cl-CH2-Cl 和 H-CCl2-H 是同分異構物",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "NaCl是實驗式",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "chapter": "第一單元：化學計量與反應式",
+    "questionNumber": "24",
+    "type": "單選題",
+    "content": "取 6.51 毫克某有機化合物完全燃燒以後，得 20.47 毫克二氧化碳、8.36 毫克水。此有機化合物最可能是下列何物質？（原子量：H=1, C=12, O=16）",
+    "options": [
+      {
+        "id": 1,
+        "content": "C6H14",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "C6H12O6",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "C4H10O4",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "C5H10",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "chapter": "第二單元：有機化合物分析與化學計量",
+    "questionNumber": "9",
+    "type": "單選題",
+    "content": "【題組】某有機物含 C、H、N 三元素，其中含 C 與 H 重量比 4:1，又知含氮重量百分率 24%：\n則其實驗式為 (N=14)：（原題答案有誤，已更正）",
+    "options": [
+      {
+        "id": 1,
+        "content": "C2H5N",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "CH2N",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "C2H3N2",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "C3H9N",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "chapter": "第二單元：有機化合物分析與化學計量",
+    "questionNumber": "10",
+    "type": "單選題",
+    "content": "承上題，若分子量為 179，則此化合物之分子式為：（原題答案有誤，已更正）",
+    "options": [
+      {
+        "id": 1,
+        "content": "C2H5N3",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "C6H15N6",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "C9H27N3",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "C4H8N4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "chapter": "第二單元：有機化合物分析與化學計量",
+    "questionNumber": "11",
+    "type": "單選題",
+    "content": "將 1.8 克的葡萄糖(C6H12O6=180)溶於水中，形成 250mL 的溶液，試求此糖水的莫耳濃度？（原題答案有誤，已更正）",
+    "options": [
+      {
+        "id": 1,
+        "content": "0.04M",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "0.08M",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "0.4M",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "0.1M",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "chapter": "第二單元：有機化合物分析與化學計量",
+    "questionNumber": "12",
+    "type": "單選題",
+    "content": "已知 3Pb + 8HNO3 → 3Pb(NO3)2 + 2NO + 4H2O (未平衡)，若使用 50.0 克鉛和 20%的硝酸 6.3 克反應，可產生 STP 下之 NO 若干 mL？(Pb=207)（原題答案有誤，已更正）",
+    "options": [
+      {
+        "id": 1,
+        "content": "11.2",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "22.4",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "112",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "224",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "chapter": "第二單元：有機化合物分析與化學計量",
+    "questionNumber": "13",
+    "type": "單選題",
+    "content": "將 5.23 克的二氧化錳加熱時，只產生氧氣；加熱到不再產生氣體為止，剩下純物質重 4.59 克，則產生的氣體在 STP 下體積為若干毫升？(Mn=55)",
+    "options": [
+      {
+        "id": 1,
+        "content": "224",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "448",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "112",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "336",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "chapter": "第二單元：有機化合物分析與化學計量",
+    "questionNumber": "14",
+    "type": "單選題",
+    "content": "檢驗奶粉之蛋白質含量，一般以總氮量（氮之重量百分率）表示。某廠商為了提高奶粉總氮量而違法加入三聚氰胺（C3H6N6）。則三聚氰胺中氮的重量百分率為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "40%",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "55%",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "67%",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "74%",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "chapter": "第二單元：有機化合物分析與化學計量",
+    "questionNumber": "15",
+    "type": "單選題",
+    "content": "某有機物在氧氣中充分燃燒，生成的 CO2 和 H2O 的莫耳數之比為 1:2，下列有關此有機物的敘述何者正確？",
+    "options": [
+      {
+        "id": 1,
+        "content": "分子中 C、H、O 的個數比為 1:4:4",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "分子中 C、H 的個數比為 1:2",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "分子中可能含有氧原子",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "此有機物的實驗式為 CH4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "chapter": "第三單元：原子量、莫耳數與化學計量",
+    "questionNumber": "1",
+    "type": "單選題",
+    "content": "【題組】等原子數目的 C 與某未知原子的質量分別為 2.4 克、7.1 克：\n則此未知原子的原子數為：",
+    "options": [
+      {
+        "id": 1,
+        "content": "1.2×10^22",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "1.2×10^23",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "2.4×10^23",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "2.4×10^22",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "chapter": "第三單元：原子量、莫耳數與化學計量",
+    "questionNumber": "2",
+    "type": "單選題",
+    "content": "承上題，此未知原子的原子量為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "16",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "35.5",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "40",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "44",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "chapter": "第三單元：原子量、莫耳數與化學計量",
+    "questionNumber": "3",
+    "type": "單選題",
+    "content": "【題組】汽車常裝有安全氣囊，當強烈碰撞時，瞬間引起下列反應，產生的氣體快速充滿氣囊，可以達到保護車內人員安全的目的：NaN3 → Na + N2 (注意方程式尚未平衡)。已知 Na 與 N 的原子量分別是 23 與 14。若氣囊中置 65 克的 NaN3：\n則 NaN3 莫耳數有多少？",
+    "options": [
+      {
+        "id": 1,
+        "content": "6.5",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "3.7",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "2.3",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "1",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "chapter": "第三單元：原子量、莫耳數與化學計量",
+    "questionNumber": "4",
+    "type": "單選題",
+    "content": "承上題，可產生 N2 若干克？",
+    "options": [
+      {
+        "id": 1,
+        "content": "23",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "28",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "42",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "84",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chapter": "第三單元：原子量、莫耳數與化學計量",
+    "questionNumber": "5",
+    "type": "單選題",
+    "content": "已知 2A + 3B → 2C，A、B、C 表不同分子，若 A、C 之分子量分別為 24 及 72，求 B 之分子量為？（答案有疑慮）",
+    "options": [
+      {
+        "id": 1,
+        "content": "12",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "36",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "40",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "48",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "chapter": "第三單元：原子量、莫耳數與化學計量",
+    "questionNumber": "6",
+    "type": "單選題",
+    "content": "氫的原子量為 1.01，則 2.02 克的氫氣所含的氫原子數目與下列哪一項的分子數目相同？（原題答案有誤，已更正）",
+    "options": [
+      {
+        "id": 1,
+        "content": "1 莫耳 O2(g)",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "2 莫耳 N2(g)",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "1 莫耳 CO2(g)",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "2/3 莫耳 NH3(g)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "chapter": "第三單元：原子量、莫耳數與化學計量",
+    "questionNumber": "7",
+    "type": "單選題",
+    "content": "目前所使用的原子量，是以何種原子的質量為標準推算而得？",
+    "options": [
+      {
+        "id": 1,
+        "content": "自然碳",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "碳-12",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "自然氧",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "氧-16",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "chapter": "第三單元：原子量、莫耳數與化學計量",
+    "questionNumber": "8",
+    "type": "單選題",
+    "content": "實驗式為 C2H3Cl (Cl=35.5)，若其分子量為 126，則其分子式為：",
+    "options": [
+      {
+        "id": 1,
+        "content": "C2H3Cl",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "C4H6Cl2",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "C6H9Cl3",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "C8H12Cl3",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "chapter": "第四單元：化學鍵結、分子結構與氫鍵",
+    "questionNumber": "11",
+    "type": "複選題",
+    "content": "下列各組氣態分子中，何者分子形狀皆相同？",
+    "options": [
+      {
+        "id": 1,
+        "content": "H2O, BeF2",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "CO2, CS2",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "H2O2, CO2",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "NH3, CH4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "chapter": "第四單元：化學鍵結、分子結構與氫鍵",
+    "questionNumber": "12",
+    "type": "複選題",
+    "content": "下列各分子，何者中心原子上具孤對電子？",
+    "options": [
+      {
+        "id": 1,
+        "content": "NH3",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "H2O",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "SO3",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "BeF2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "chapter": "第四單元：化學鍵結、分子結構與氫鍵",
+    "questionNumber": "13",
+    "type": "單選題",
+    "content": "化合物 CaCl2 中所含的化學鍵種類為下列何者？",
+    "options": [
+      {
+        "id": 1,
+        "content": "只有離子鍵",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "有離子鍵與共價鍵",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "只有共價鍵",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "有金屬鍵與共價鍵",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "chapter": "第四單元：化學鍵結、分子結構與氫鍵",
+    "questionNumber": "14",
+    "type": "單選題",
+    "content": "下列四種鹵化氫的沸點高低次序，何者正確？",
+    "options": [
+      {
+        "id": 1,
+        "content": "HI < HBr < HCl < HF",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "HF < HCl < HBr < HI",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "HCl < HBr < HI < HF",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "HCl < HF < HBr < HI",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "chapter": "第四單元：化學鍵結、分子結構與氫鍵",
+    "questionNumber": "15",
+    "type": "複選題",
+    "content": "氫鍵是生物體內一種重要的化學鍵，去氧核糖核酸的雙螺旋結構就是利用氫鍵來維繫的。下列用點線表示的鍵結（不考慮鍵角），哪一個是氫鍵？",
+    "options": [
+      {
+        "id": 1,
+        "content": "H-H···H-H",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "O-H···O(H)-H",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "F-H···F-H",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "N-H···F-H",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "chapter": "第四單元：化學鍵結、分子結構與氫鍵",
+    "questionNumber": "16",
+    "type": "單選題",
+    "content": "自然界的物質中，氫鍵扮演著重要的角色，下列物質中哪一個有氫鍵的作用力？",
+    "options": [
+      {
+        "id": 1,
+        "content": "食鹽",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "DNA",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "乾冰",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "金屬銅",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "chapter": "第四單元：化學鍵結、分子結構與氫鍵",
+    "questionNumber": "1",
+    "type": "問答題",
+    "content": "畫出乙烷、乙烯、乙炔的結構式，並比較 C-C 之間鍵能大小為何？",
+    "options": []
+  },
+  {
+    "id": 32,
+    "chapter": "第五單元：電子組態與軌域",
+    "questionNumber": "14",
+    "type": "單選題",
+    "content": "24Cr 的基態電子組態中有幾個不成對電子？",
+    "options": [
+      {
+        "id": 1,
+        "content": "6",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "5",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "4",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "3",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "chapter": "第五單元：電子組態與軌域",
+    "questionNumber": "15",
+    "type": "單選題",
+    "content": "下列的電子組態示意圖中，何者不存在？",
+    "options": [
+      {
+        "id": 1,
+        "content": "1s(↑↓) 2s(↑↓) 2p(↑)(↑)(↑)",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "1s(↑↓) 2s(↑↓↑) 2p(↑)(↑)(↑)",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "1s(↑↓) 2s(↑) 2p(↑)(↑)( )",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "1s(↑↓) 2s(↑) 2p(↑)(↑)(↑)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "chapter": "第五單元：電子組態與軌域",
+    "questionNumber": "1",
+    "type": "問答題",
+    "content": "根據下列之各電子組態回答下面問題：(甲) 1s^2 2p^1 ; (乙) 1s^2 2s^2 2p^1 ; (丙) 1s^2 2s^2 2p_x^2 2p_y^1 2p_z^1 ;(丁) 1s^2 2s^2 2d^1 ; (戊) 1s^2 2s^2 2p_x^1 2p_y^1 2p_z^1 ; (己) 1s^2 2s^2 2p^5。(1) 何者為基態的電子組態？(2) 寫法錯誤者有哪些？(3) 何者為激發態的電子組態？",
+    "options": []
+  },
+  {
+    "id": 35,
+    "chapter": "第五單元：電子組態與軌域",
+    "questionNumber": "2",
+    "type": "問答題",
+    "content": "寫出下列各原子的電子組態：(1) 15P  (2) 19K  (3) 24Cr  (4) 18Ar",
+    "options": []
+  },
+  {
+    "id": 36,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "1",
+    "type": "單選題",
+    "content": "有關 H(g) 與 H2(g) 的性質敘述哪一項錯誤？",
+    "options": [
+      {
+        "id": 1,
+        "content": "2H(g) → H2(g) ΔH < 0",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "常溫常壓下 H2(g) 比 H(g) 穩定",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "H(g) 與 H2(g) 兩者，化學性質相同",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "兩個 H(g) 藉由共價鍵鍵結形成 H2(g)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "2",
+    "type": "單選題",
+    "content": "已知二原子之原子序：A=17、B=19，則 A、B 二原子所形成之化合物化學式為？",
+    "options": [
+      {
+        "id": 1,
+        "content": "BA",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "A2B",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "B",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "A2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "3",
+    "type": "單選題",
+    "content": "下列物質何者在晶體中含有離子鍵與共價鍵？",
+    "options": [
+      {
+        "id": 1,
+        "content": "NaCl",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "H2SO4",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "HCN",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "KClO4",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "4",
+    "type": "單選題",
+    "content": "下列哪一個分子間作用力為氫鍵？",
+    "options": [
+      {
+        "id": 1,
+        "content": "HCl",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "NH3",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "CO2",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "BF3",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "5",
+    "type": "單選題",
+    "content": "電子組態為 1s^2 2s^2 2p^4 之元素與下列何者易形成離子鍵？",
+    "options": [
+      {
+        "id": 1,
+        "content": "1s^2",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "1s^2 2s^2",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "1s^2 2s^2 2p^5",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "1s^2 2s^2 2p^6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "6",
+    "type": "單選題",
+    "content": "分子間之結合力只有分散力的是：",
+    "options": [
+      {
+        "id": 1,
+        "content": "氯仿",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "三氟化氮",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "二氧化硫",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "乙炔",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "7",
+    "type": "單選題",
+    "content": "下列化學式，何者不可能具有符合八隅體規則的路易士結構（電子點式）？",
+    "options": [
+      {
+        "id": 1,
+        "content": "CO2",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "NO",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "N2O",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "N2O4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "8",
+    "type": "單選題",
+    "content": "甲烷 CH4 的形狀為：",
+    "options": [
+      {
+        "id": 1,
+        "content": "直線形",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "平面三角形",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "角錐形",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "正四面體形",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "9",
+    "type": "單選題",
+    "content": "下列關於氫鍵的影響，何者錯誤？",
+    "options": [
+      {
+        "id": 1,
+        "content": "水結成冰時體積會變大",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "蛋白質利用分子內氫鍵形成螺旋結構",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "乙醇和水的溶解度很大",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "氫氧化鈉(NaOH)在常溫下為固體，是因為其具有氫鍵之故",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "chapter": "第六單元：化學鍵與分子形狀綜合測驗",
+    "questionNumber": "10",
+    "type": "單選題",
+    "content": "下列哪種分子含有參鍵（兩結合原子間共用三對電子）？(甲)炔；(乙)氮；(丙)氧；(丁)氟。",
+    "options": [
+      {
+        "id": 1,
+        "content": "只有甲和丁",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "只有乙和丙",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "只有甲、乙",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "只有乙和丁",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "1",
+    "type": "單選題",
+    "content": "下列有關元素週期性質及週期表的敘述，何者正確？",
+    "options": [
+      {
+        "id": 1,
+        "content": "現有的週期表是依各元素原子量從小到大的順序排列",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "就導電性而言，元素大體上可分為金屬、類金屬及非金屬三大類",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "週期表左下方的元素是在水中呈酸性的非金屬",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "類金屬的化學性質介於金屬及非金屬之間，所以列在週期表中央，統稱 B 族",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "2",
+    "type": "單選題",
+    "content": "下列原子和離子半徑之大小順序，何者正確？",
+    "options": [
+      {
+        "id": 1,
+        "content": "F > Cl > Br",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "K > Na > Li",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "K+ > Ar > Cl-",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Ne > Ar > He",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "3",
+    "type": "單選題",
+    "content": "下列電子組態中第一游離能最高的是：",
+    "options": [
+      {
+        "id": 1,
+        "content": "1s^1",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "1s^2 2s^1",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "1s^2",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "1s^2 2s^2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "4",
+    "type": "單選題",
+    "content": "下列各組元素第一游離能大小順序，何項錯誤？",
+    "options": [
+      {
+        "id": 1,
+        "content": "S < Cl < Ar",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "O < N < F",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "Na < Al < Mg",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "Ca < Sr < Ba",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "5",
+    "type": "單選題",
+    "content": "F, N, Ne, O 的第一游離能由小至大的順序排列是：",
+    "options": [
+      {
+        "id": 1,
+        "content": "N < O < F < Ne",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "N < O < Ne < F",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "O < N < F < Ne",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "O < N < Ne < F",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "6",
+    "type": "單選題",
+    "content": "下列各組，何者為週期表的過渡元素？",
+    "options": [
+      {
+        "id": 1,
+        "content": "Li、Na、K",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Cu、Ag、Au",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "N、P、As",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "O、Se、Te",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "7",
+    "type": "單選題",
+    "content": "關於第三列元素，何者錯誤？",
+    "options": [
+      {
+        "id": 1,
+        "content": "鈉、鎂、鋁為金屬元素",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "矽為類金屬",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "磷、硫、氯、氬為非金屬",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "氮、氫均為雙原子分子",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "8",
+    "type": "單選題",
+    "content": "已知數個元素的電子組態分別如下：(甲) 1s^2；(乙) 1s^2 2s^2 2p^3；(丙) 1s^2 2s^2 2p^4，若將甲、乙、丙三個原子移去一個電子所需的能量比較何者正確？",
+    "options": [
+      {
+        "id": 1,
+        "content": "甲 > 乙 > 丙",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "甲 > 丙 > 乙",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "乙 > 丙 > 甲",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "丙 > 乙 > 甲",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "9",
+    "type": "單選題",
+    "content": "鈉、鎂及鋁三種物質的第 n 游離能分別為 1090.3、346.6、434.2 kcal/mol。試問 n 為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "一",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "二",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "三",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "四",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "10",
+    "type": "單選題",
+    "content": "元素週期表的一部分，甲至戊表元素符號，其中甲的原子序為 13（鋁）。試問週期表中，哪一個元素的原子半徑最大？",
+    "options": [
+      {
+        "id": 1,
+        "content": "甲",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "乙",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "丙",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "戊",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "11",
+    "type": "單選題",
+    "content": "甲、乙為同一族元素，若甲的原子序為 12，乙的原子序可能為下列何者？",
+    "options": [
+      {
+        "id": 1,
+        "content": "3",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "16",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "20",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "22",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "12",
+    "type": "單選題",
+    "content": "下列關於元素性質的敘述，何者正確？",
+    "options": [
+      {
+        "id": 1,
+        "content": "第一游離能最大的元素為 H",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "第一游離能最大的元素為 F",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "最活潑的金屬元素為 Li",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "電負度最大的元素為 F",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "chapter": "第七單元：元素週期性與游離能",
+    "questionNumber": "1",
+    "type": "問答題",
+    "content": "根據元素週期表截圖中的位置標記①～⑩，選出適合於下列各題的元素，需以元素符號作答：(1) 容易形成二價負離子，其電子組態與 Ar 的電子組態相同的元素符號為何？(2) 主量子數 n=3 而有 2 個價電子的元素符號為何？(3) 電子組態為 [Ar]3d^10 4s^1 的元素符號為何？(4) 元素①與元素⑦，何者游離能較大？(5) 元素①～⑩中，原子半徑最小者為何？",
+    "options": []
+  },
+  {
+    "id": 59,
+    "chapter": "第八單元：原子結構與同位素",
+    "questionNumber": "1",
+    "type": "單選題",
+    "content": "鈷六十（原子序 27）可作放射性治療用，下列有關鈷六十的原子結構，何者正確？",
+    "options": [
+      {
+        "id": 1,
+        "content": "60Co有27個電子",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "60Co有60個中子",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "60Co^3+有30個中子",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "60Co^3+有33個質子",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "chapter": "第八單元：原子結構與同位素",
+    "questionNumber": "2",
+    "type": "單選題",
+    "content": "下列有關原子結構的敘述，何者正確？",
+    "options": [
+      {
+        "id": 1,
+        "content": "原子呈電中性時，其原子序等於原子核外的電子數",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "大多數原子核僅由質子所構成",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "原子核內的中子數一定等於質子數",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "質子質量為電子的 1,840 倍，故原子的質量約略等於原子核中質子質量之和",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "chapter": "第八單元：原子結構與同位素",
+    "questionNumber": "3",
+    "type": "單選題",
+    "content": "某元素的電子組態最外層為 3s^2 3p^3，則該元素為：",
+    "options": [
+      {
+        "id": 1,
+        "content": "Na",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "Mg",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "P",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "S",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "chapter": "第八單元：原子結構與同位素",
+    "questionNumber": "4",
+    "type": "單選題",
+    "content": "亞鐵離子(Fe2+)具有 24 個電子，質量數 56 之鐵離子(Fe3+)之中子總數為多少？",
+    "options": [
+      {
+        "id": 1,
+        "content": "34",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "32",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "30",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "content": "22",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "chapter": "第八單元：原子結構與同位素",
+    "questionNumber": "5",
+    "type": "單選題",
+    "content": "某原子基態的電子組態為 1s^2 2s^2 2p^6 3s^2 3p^6 3d^6 4s^2，則該原子的原子序為何？",
+    "options": [
+      {
+        "id": 1,
+        "content": "28",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "26",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "content": "24",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "22",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "chapter": "第八單元：原子結構與同位素",
+    "questionNumber": "6",
+    "type": "單選題",
+    "content": "放射性物質釙(210_84 Po)，為 1898 年居禮夫婦在處理瀝青鈾礦時所發現。下列有關此原子(210_84 Po)的敘述，何者正確？",
+    "options": [
+      {
+        "id": 1,
+        "content": "核外電子數為 126",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "content": "原子核內中子數為 84",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "最外層 p 軌域的電子數小於 4",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "為週期表中第 16 族元素",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "chapter": "第八單元：原子結構與同位素",
+    "questionNumber": "7",
+    "type": "單選題",
+    "content": "碳原子的平均質量是 12.011，假設你能夠挑起一粒碳原子，請問你挑到一粒質量是 12.011 的碳原子之機率為多少？",
+    "options": [
+      {
+        "id": 1,
+        "content": "0%",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "content": "0.011%",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "content": "大約 12%",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "content": "12.011%",
+        "isCorrect": false
+      }
+    ]
+  }
+]
