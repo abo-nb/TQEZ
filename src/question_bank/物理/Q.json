@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "chapter": "物理與生活",
+    "questionNumber": "Q1",
+    "type": "單選題",
+    "content": "第一位女性諾貝爾獎得主是誰？",
+    "options": [
+      { "id": 1, "content": "居里夫人", "isCorrect": true },
+      { "id": 2, "content": "愛因斯坦的妹妹", "isCorrect": false },
+      { "id": 3, "content": "瑪麗·安寧（Mary Anning）", "isCorrect": false },
+      { "id": 4, "content": "麥克琳托克（Barbara McClintock）", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "chapter": "物理與生活",
+    "questionNumber": "Q2",
+    "type": "單選題",
+    "content": "手機加速器（加速度計）主要利用什麼系統來感測運動？",
+    "options": [
+      { "id": 1, "content": "「彈簧-質量」系統", "isCorrect": true },
+      { "id": 2, "content": "「電磁-線圈」系統", "isCorrect": false },
+      { "id": 3, "content": "「光學-干涉」系統", "isCorrect": false },
+      { "id": 4, "content": "「壓電-晶體」系統", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "chapter": "物理與生活",
+    "questionNumber": "Q3",
+    "type": "單選題",
+    "content": "愛因斯坦以什麼理論獲得諾貝爾物理獎？",
+    "options": [
+      { "id": 1, "content": "光電效應", "isCorrect": true },
+      { "id": 2, "content": "相對論", "isCorrect": false },
+      { "id": 3, "content": "質能等價公式", "isCorrect": false },
+      { "id": 4, "content": "布朗運動", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "chapter": "物理與生活",
+    "questionNumber": "Q4",
+    "type": "單選題",
+    "content": "霍金最著名的科普著作是？",
+    "options": [
+      { "id": 1, "content": "時間簡史", "isCorrect": true },
+      { "id": 2, "content": "宇宙的結構", "isCorrect": false },
+      { "id": 3, "content": "費曼物理學講義", "isCorrect": false },
+      { "id": 4, "content": "物種起源", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "chapter": "物理與生活",
+    "questionNumber": "Q5",
+    "type": "單選題",
+    "content": "貓在空中翻轉身體落地時，主要靠什麼物理現象？",
+    "options": [
+      { "id": 1, "content": "角動量守恆", "isCorrect": true },
+      { "id": 2, "content": "動量守恆", "isCorrect": false },
+      { "id": 3, "content": "能量守恆", "isCorrect": false },
+      { "id": 4, "content": "牛頓第三運動定律", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "chapter": "物理與生活",
+    "questionNumber": "Q6",
+    "type": "單選題",
+    "content": "水壓的大小與下列何者成正比？",
+    "options": [
+      { "id": 1, "content": "水深度", "isCorrect": true },
+      { "id": 2, "content": "水的表面積", "isCorrect": false },
+      { "id": 3, "content": "水的體積", "isCorrect": false },
+      { "id": 4, "content": "容器形狀", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "chapter": "物理與生活",
+    "questionNumber": "Q7",
+    "type": "單選題",
+    "content": "以下何者為非牛頓流體？",
+    "options": [
+      { "id": 1, "content": "玉米粉", "isCorrect": true },
+      { "id": 2, "content": "純水", "isCorrect": false },
+      { "id": 3, "content": "食用油", "isCorrect": false },
+      { "id": 4, "content": "酒精", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 8,
+    "chapter": "物理與生活",
+    "questionNumber": "Q8",
+    "type": "單選題",
+    "content": "薛丁格用什麼動物的思想實驗來解釋量子疊加？",
+    "options": [
+      { "id": 1, "content": "貓", "isCorrect": true },
+      { "id": 2, "content": "狗", "isCorrect": false },
+      { "id": 3, "content": "蝴蝶", "isCorrect": false },
+      { "id": 4, "content": "白鼠", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 9,
+    "chapter": "物理與生活",
+    "questionNumber": "Q9",
+    "type": "單選題",
+    "content": "司乃耳定律（Snell's Law）用來解釋什麼現象？",
+    "options": [
+      { "id": 1, "content": "折射", "isCorrect": true },
+      { "id": 2, "content": "反射", "isCorrect": false },
+      { "id": 3, "content": "繞射", "isCorrect": false },
+      { "id": 4, "content": "干涉", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 10,
+    "chapter": "物理與生活",
+    "questionNumber": "Q10",
+    "type": "單選題",
+    "content": "薛丁格出版的科普著作《生命是什麼》探討的主題是？",
+    "options": [
+      { "id": 1, "content": "生命是什麼", "isCorrect": true },
+      { "id": 2, "content": "宇宙的邊界", "isCorrect": false },
+      { "id": 3, "content": "量子力學的崩潰", "isCorrect": false },
+      { "id": 4, "content": "相對論的悖論", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 11,
+    "chapter": "物理與生活",
+    "questionNumber": "Q11",
+    "type": "單選題",
+    "content": "楊格做了什麼實驗證明光具有波動性？",
+    "options": [
+      { "id": 1, "content": "雙狹縫實驗", "isCorrect": true },
+      { "id": 2, "content": "單狹縫實驗", "isCorrect": false },
+      { "id": 3, "content": "光電效應實驗", "isCorrect": false },
+      { "id": 4, "content": "黑體輻射實驗", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 12,
+    "chapter": "物理與生活",
+    "questionNumber": "Q12",
+    "type": "單選題",
+    "content": "傅科用什麼儀器驗證地球會自轉？",
+    "options": [
+      { "id": 1, "content": "傅科擺", "isCorrect": true },
+      { "id": 2, "content": "望遠鏡", "isCorrect": false },
+      { "id": 3, "content": "干涉儀", "isCorrect": false },
+      { "id": 4, "content": "陀螺儀", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 13,
+    "chapter": "物理與生活",
+    "questionNumber": "Q13",
+    "type": "單選題",
+    "content": "手機感測指紋的主要方式為？",
+    "options": [
+      { "id": 1, "content": "電容式", "isCorrect": true },
+      { "id": 2, "content": "光學式", "isCorrect": false },
+      { "id": 3, "content": "超音波式", "isCorrect": false },
+      { "id": 4, "content": "紅外線熱感應式", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 14,
+    "chapter": "物理與生活",
+    "questionNumber": "Q14",
+    "type": "單選題",
+    "content": "物理引擎的核心模組包含什麼？",
+    "options": [
+      { "id": 1, "content": "剛體物理", "isCorrect": true },
+      { "id": 2, "content": "粒子著色器", "isCorrect": false },
+      { "id": 3, "content": "音訊編碼器", "isCorrect": false },
+      { "id": 4, "content": "紋理壓縮", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 15,
+    "chapter": "物理與生活",
+    "questionNumber": "Q15",
+    "type": "單選題",
+    "content": "發電機的工作原理是什麼？",
+    "options": [
+      { "id": 1, "content": "電磁感應", "isCorrect": true },
+      { "id": 2, "content": "摩擦起電", "isCorrect": false },
+      { "id": 3, "content": "壓電效應", "isCorrect": false },
+      { "id": 4, "content": "熱電效應", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 16,
+    "chapter": "物理與生活",
+    "questionNumber": "Q16",
+    "type": "單選題",
+    "content": "磁場的單位以及以誰命名？",
+    "options": [
+      { "id": 1, "content": "特斯拉（Tesla）", "isCorrect": true },
+      { "id": 2, "content": "安培（Ampere）", "isCorrect": false },
+      { "id": 3, "content": "歐姆（Ohm）", "isCorrect": false },
+      { "id": 4, "content": "法拉第（Faraday）", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 17,
+    "chapter": "物理與生活",
+    "questionNumber": "Q17",
+    "type": "單選題",
+    "content": "微波爐加熱食物主要靠什麼分子的振動？",
+    "options": [
+      { "id": 1, "content": "水分子", "isCorrect": true },
+      { "id": 2, "content": "脂肪分子", "isCorrect": false },
+      { "id": 3, "content": "蛋白質分子", "isCorrect": false },
+      { "id": 4, "content": "澱粉分子", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 18,
+    "chapter": "物理與生活",
+    "questionNumber": "Q18",
+    "type": "單選題",
+    "content": "下列何者用到了虹吸現象？",
+    "options": [
+      { "id": 1, "content": "魚缸換水", "isCorrect": true },
+      { "id": 2, "content": "吹氣球", "isCorrect": false },
+      { "id": 3, "content": "彈吉他", "isCorrect": false },
+      { "id": 4, "content": "打氣筒充氣", "isCorrect": false }
+    ]
+  }
+]
